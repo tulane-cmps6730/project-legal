@@ -1,0 +1,121 @@
+posted : december 8 , 2016 
+effective : february 10 , 2017 
+these terms of service -lrb- `` terms '' -rrb- cover your use and access to our services , client software and websites -lrb- `` services '' -rrb- . 
+if you reside outside of the united states of america , canada and mexico -lrb- `` north america '' -rrb- your agreement is with dropbox international unlimited company , and if you reside in north america your agreement is with dropbox , inc. . 
+our privacy policy explains how we collect and use your information while our acceptable use policy outlines your responsibilities when using our services . 
+by using our services , you 're agreeing to be bound by these terms , our privacy policy and acceptable use policy . 
+if you 're using our services for an organization , you 're agreeing to these terms on behalf of that organization . 
+when you use our services , you provide us with things like your files , content , messages , contacts and so on -lrb- `` your stuff '' -rrb- . 
+these terms do n't give us any rights to your stuff except for the limited rights that enable us to offer the services . 
+we need your permission to do things like hosting your stuff , backing it up , and sharing it when you ask us to . 
+our services also provide you with features like photo thumbnails , document previews , commenting , easy sorting , editing , sharing and searching . 
+these and other features may require our systems to access , store and scan your stuff . 
+you give us permission to do those things , and this permission extends to our affiliates and trusted third parties we work with . 
+our services let you share your stuff with others , so please think carefully about what you share . 
+you 're responsible for your conduct . 
+your stuff and you must comply with our acceptable use policy . 
+content in the services may be protected by others ' intellectual property rights . 
+please do n't copy , upload , download or share content unless you have the right to do so . 
+we may review your conduct and content for compliance with these terms and our acceptable use policy . 
+with that said , we have no obligation to do so . 
+we are n't responsible for the content people post and share via the services . 
+help us keep you informed and your stuff protected . 
+safeguard your password to the services , and keep your account information current . 
+do n't share your account credentials or give others access to your account . 
+you may use our services only as permitted by applicable law , including export control laws and regulations . 
+finally , our services are not intended for and may not be used by people under the age of 13 . 
+by using our services , you are representing to us that you 're over 13 . 
+some of our services allow you to download client software -lrb- `` software '' -rrb- which may update automatically . 
+so long as you comply with these terms , we give you a limited , nonexclusive , nontransferable , revocable license to use the software , solely to access the services . 
+to the extent any component of the software may be offered under an open source license , we 'll make that license available to you and the provisions of that license may expressly override some of these terms . 
+unless the following restrictions are prohibited by law , you agree not to reverse engineer or decompile the services , attempt to do so , or assist anyone in doing so . 
+we sometimes release products and features that we are still testing and evaluating . 
+those services have been marked beta , preview , early access , or evaluation -lrb- or with words or phrases with similar meanings -rrb- and may not be as reliable as dropbox 's other services , so please keep that in mind . 
+the services are protected by copyright , trademark , and other us and foreign laws . 
+these terms do n't grant you any right , title or interest in the services , others ' content in the services , dropbox trademarks , logos and other brand features . 
+we welcome feedback , but note that we may use comments or suggestions without any obligation to you . 
+we respect the intellectual property of others and ask that you do too . 
+we respond to notices of alleged copyright infringement if they comply with the law , and such notices should be reported using our copyright policy . 
+we reserve the right to delete or disable content alleged to be infringing and terminate accounts of repeat infringers . 
+our designated agent for notice of alleged copyright infringement on the services is : 
+you can increase your storage space and add paid features to your account -lrb- turning your account into a `` paid account '' -rrb- . 
+we 'll automatically bill you from the date you convert to a paid account and on each periodic renewal until cancellation . 
+if you 're on an annual plan , we 'll send you a notice email reminding you that your plan is about to renew within a reasonable period of time prior to the renewal date . 
+you 're responsible for all applicable taxes , and we 'll charge tax when required to do so . 
+some countries have mandatory local laws regarding your cancellation rights , and this paragraph does n't override these laws . 
+you may cancel your dropbox paid account at any time . 
+refunds are only issued if required by law . 
+for example , users living in the european union have the right to cancel their paid account subscriptions within 14 days of signing up for , upgrading to or renewing a paid account . 
+your paid account will remain in effect until it 's cancelled or terminated under these terms . 
+if you do n't pay for your paid account on time , we reserve the right to suspend it or reduce your storage to free space levels . 
+we may change the fees in effect but will give you advance notice of these changes via a message to the email address associated with your account . 
+if you sign up for a dropbox account with an email address provisioned by your organization , your organization may be able to block your use of dropbox until you transition to an account on a dropbox team -lrb- e.g. , dropbox business plans or dropbox education -rrb- or you associate your dropbox account with a personal email address . 
+if you join a dropbox team , you must use it in compliance with your organization 's terms and policies . 
+please note that dropbox team accounts are subject to your organization 's control . 
+your administrators may be able to access , disclose , restrict , or remove information in or from your dropbox team account . 
+they may also be able to restrict or terminate your access to a dropbox team account . 
+if you convert an existing dropbox account into part of a dropbox team , your administrators may prevent you from later disassociating your account from the dropbox team . 
+you 're free to stop using our services at any time . 
+we reserve the right to suspend or terminate your access to the services with notice to you if : -lrb- a -rrb- you 're in breach of these terms , -lrb- b -rrb- you 're using the services in a manner that would cause a real risk of harm or loss to us or other users , or -lrb- c -rrb- you do n't have a paid account and have n't accessed our services for 12 consecutive months . 
+we 'll provide you with reasonable advance notice via the email address associated with your account to remedy the activity that prompted us to contact you and give you the opportunity to export your stuff from our services . 
+if after such notice you fail to take the steps we ask of you , we 'll terminate or suspend your access to the services . 
+we wo n't provide notice before termination where : -lrb- a -rrb- you 're in material breach of these terms , -lrb- b -rrb- doing so would cause us legal liability or compromise our ability to provide the services to our other users , or -lrb- c -rrb- we 're prohibited from doing so by law . 
+we may decide to discontinue the services in response to unforeseen circumstances beyond dropbox 's control or to comply with a legal requirement . 
+if we do so , we 'll give you reasonable prior notice so that you can export your stuff from our systems . 
+if we discontinue services in this way before the end of any fixed or minimum term you have paid us for , we 'll refund the portion of the fees you have pre-paid but have n't received services for . 
+we strive to provide great services , but there are certain things that we ca n't guarantee . 
+to the fullest extent permitted by law , dropbox and its affiliates , suppliers and distributors make no warranties , either express or implied , about the services . 
+the services are provided `` as is . '' 
+we also disclaim any warranties of merchantability , fitness for a particular purpose and non-infringement . 
+some places do n't allow the disclaimers in this paragraph , so they may not apply to you . 
+we do n't exclude or limit our liability to you where it would be illegal to do so -- this includes any liability for dropbox 's or its affiliates ' fraud or fraudulent misrepresentation in providing the services . 
+in countries where the following types of exclusions are n't allowed , we 're responsible to you only for losses and damages that are a reasonably foreseeable result of our failure to use reasonable care and skill or our breach of our contract with you . 
+this paragraph does n't affect consumer rights that ca n't be waived or limited by any contract or agreement . 
+in countries where exclusions or limitations of liability are allowed , dropbox , its affiliates , suppliers or distributors wo n't be liable for : i -rrb- any indirect , special , incidental , punitive , exemplary or consequential damages , or ii -rrb- any loss of use , data , business , or profits , regardless of legal theory . 
+these exclusions or limitations will apply regardless of whether or not dropbox or any of its affiliates has been warned of the possibility of such damages . 
+if you use the services for any commercial , business or re-sale purpose , dropbox , its affiliates , suppliers or distributors will have no liability to you for any loss of profit , loss of business , business interruption , or loss of business opportunity . 
+dropbox and its affiliates are n't responsible for the conduct , whether online or offline , of any user of the services . 
+other than for the types of liability we can not limit by law -lrb- as described in this section -rrb- , we limit our liability to you to the greater of $ 20 usd or 100 % of any amount you 've paid under your current service plan with dropbox . 
+let 's try to sort things out first . 
+we want to address your concerns without needing a formal legal case . 
+before filing a claim against dropbox , you agree to try to resolve the dispute informally by contacting dispute-notice@dropbox.com . 
+we 'll try to resolve the dispute informally by contacting you via email . 
+if a dispute is not resolved within 15 days of submission , you or dropbox may bring a formal proceeding . 
+you and dropbox agree that any judicial proceeding to resolve claims relating to these terms or the services will be brought in the federal or state courts of san francisco county , california , subject to the mandatory arbitration provisions below . 
+both you and dropbox consent to venue and personal jurisdiction in such courts . 
+if you reside in a country -lrb- for example , european union member states -rrb- with laws that give consumers the right to bring disputes in their local courts , this paragraph does n't affect those requirements . 
+if you 're a u.s. resident , you also agree to the following mandatory arbitration provisions : 
+we both agree to arbitrate . 
+you and dropbox agree to resolve any claims relating to these terms or the services through final and binding arbitration by a single arbitrator , except as set forth under exceptions to agreement to arbitrate below . 
+this includes disputes arising out of or relating to interpretation or application of this `` mandatory arbitration provisions '' section , including its enforceability , revocability , or validity . 
+opt-out of agreement to arbitrate . 
+you can decline this agreement to arbitrate by clicking here and submitting the opt-out form within 30 days of first registering your account . 
+however , if you agreed to a previous version of these terms that allowed you to opt out of arbitration , your previous choice to opt out or not opt out remains binding . 
+the american arbitration association -lrb- aaa -rrb- will administer the arbitration under its commercial arbitration rules and the supplementary procedures for consumer related disputes . 
+the arbitration will be held in the united states county where you live or work , san francisco -lrb- ca -rrb- , or any other location we agree to . 
+the aaa rules will govern payment of all arbitration fees . 
+dropbox will pay all arbitration fees for individual arbitration for claims less than $ 75,000 . 
+if you receive an arbitration award that is more favorable than any offer we make to resolve the claim , we will pay you $ 1,000 in addition to the award . 
+dropbox will not seek its attorneys ' fees and costs in arbitration unless the arbitrator determines that your claim is frivolous . 
+exceptions to agreement to arbitrate . 
+either you or dropbox may assert claims , if they qualify , in small claims court in san francisco -lrb- ca -rrb- or any united states county where you live or work . 
+either party may bring a lawsuit solely for injunctive relief to stop unauthorized use or abuse of the services , or intellectual property infringement -lrb- for example , trademark , trade secret , copyright , or patent rights -rrb- without first engaging in arbitration or the informal dispute-resolution process described above . 
+if the agreement to arbitrate is found not to apply to you or your claim , you agree to the exclusive jurisdiction of the state and federal courts in san francisco county , california to resolve your claim . 
+you may only resolve disputes with us on an individual basis , and may not bring a claim as a plaintiff or a class member in a class , consolidated , or representative action . 
+class arbitrations , class actions , private attorney general actions , and consolidation with other arbitrations are n't allowed . 
+if this specific paragraph is held unenforceable , then the entirety of this `` mandatory arbitration provisions '' section will be deemed void . 
+these terms will be governed by california law except for its conflicts of laws principles . 
+however , some countries -lrb- including those in the european union -rrb- have laws that require agreements to be governed by the local laws of the consumer 's country . 
+this paragraph does n't override those laws . 
+these terms constitute the entire agreement between you and dropbox with respect to the subject matter of these terms , and supersede and replace any other prior or contemporaneous agreements , or terms and conditions applicable to the subject matter of these terms . 
+these terms create no third party beneficiary rights . 
+dropbox 's failure to enforce a provision is not a waiver of its right to do so later . 
+if a provision is found unenforceable , the remaining provisions of the terms will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible . 
+you may not assign any of your rights under these terms , and any such attempt will be void . 
+dropbox may assign its rights to any of its affiliates or subsidiaries , or to any successor in interest of any business associated with the services . 
+we may revise these terms from time to time to better reflect : -lrb- a -rrb- changes to the law , -lrb- b -rrb- new regulatory requirements , or -lrb- c -rrb- improvements or enhancements made to our services . 
+if an update affects your use of the services or your legal rights as a user of our services , we 'll notify you prior to the update 's effective date by sending an email to the email address associated with your account or via an in-product notification . 
+these updated terms will be effective no less than 30 days from when we notify you . 
+if you do n't agree to the updates we make , please cancel your account before they become effective . 
+where applicable , we 'll offer you a prorated refund based on the amounts you have prepaid for services and your account cancellation date . 
+by continuing to use or access the services after the updates come into effect , you agree to be bound by the revised terms . 

@@ -1,0 +1,240 @@
+last updated : 19 september 2017 
+by accepting these terms of service or using our services , you understand that this is a legally binding instrument and agree to be bound by the terms and conditions herein . 
+please read these terms of service in their entirety . 
+if you do not agree to these terms of service , do not access or use our services . 
+these terms of service contain important terms and conditions that affect you and your use of the services , including , unless you choose to opt out , a provision regarding binding arbitration of disputes -lrb- other than certain specified intellectual property claims and small claims -rrb- and a waiver of certain rights to jury trials and/or class actions . 
+please read the `` dispute resolution '' section -lrb- section 18 -rrb- in its entirety . 
+in addition , certain terms and conditions may be applicable to users who reside outside the united states . 
+please review section 26 to determine whether these terms and conditions apply to you . 
+you certify that you are of the legal age of majority in the jurisdiction in which you reside or , if you are between the ages of 13 and the legal age of majority , that you are using the services with the supervision of your parent or legal guardian who agrees to be bound by these terms of service . 
+make sure that you review these terms of service with your parent or guardian so that you both understand all of your rights and obligations . 
+oculus vr , llc -lrb- `` oculus '' , `` we '' , `` us '' or `` our '' -rrb- is pleased to provide you with access to , and use of , physical goods , platform services , software , websites , applications and content -lrb- collectively , the `` services '' -rrb- . 
+these terms of service -lrb- `` terms '' -rrb- apply to your purchase , access to and use of any services . 
+these terms do not alter in any way the terms or conditions of any other agreement that you may have with oculus for products , services or otherwise . 
+if you are using the services on behalf of any entity , you represent and warrant that you are authorised to accept these terms on such entity 's behalf and that such entity agrees to be responsible to us if you or that entity violate these terms . 
+oculus reserves the right to change or modify these terms in the future at any time and at our sole discretion . 
+if oculus makes changes to these terms , we will provide notice of such changes as appropriate , such as by sending an email notification to the address that you have provided , providing notice through the services and/or updating the `` last updated '' date at the top of these terms . 
+your continued use of the services will confirm your acceptance of the revised terms . 
+if you do not agree to the revised terms , you must stop using the services . 
+we encourage you to review the terms from time to time to ensure that you understand the terms and conditions that apply to your access to , and use of , the services . 
+this agreement was written in us english . 
+to the extent that any translated version of this agreement conflicts with the us english version , the us english version prevails . 
+to access and use certain features of the services , you may be required to register for an account . 
+by creating an account , you agree to : -lrb- i -rrb- provide accurate , current and complete account information ; -lrb- ii -rrb- maintain the security of your password , not share your password with any other person and accept all risks of unauthorised access to your account ; and -lrb- iii -rrb- promptly provide notice at https://www.facebook.com/whitehat if you discover or otherwise suspect any security breaches related to the services . 
+certain equipment and software may be required to access and use the services . 
+in addition , we may need to automatically update some of the software that you obtain through the services or provide you with new software to keep the services functioning properly , which could include bug fixes , patches , enhanced features , missing plug-ins and new versions . 
+by using the services , you agree to such automatic updating . 
+we reserve the right , at our sole discretion and where technically feasible , to disable your access to or ability to use services that we believe present a health and safety risk or violate our community standards , agreements , laws , regulations or policies . 
+we will not incur any liability or responsibility if we choose to remove , disable or delete such access or ability to use any or all portion -lrb- s -rrb- of the services . 
+your use of the services and content 
+3.1 content and software licence . 
+except as otherwise agreed upon , if we enable the use of software , content , virtual items or other materials owned or licensed by us -lrb- `` software and content '' -rrb- , we hereby grant you a limited , non-exclusive , non-sublicensable licence to access , install and use the software and content solely for personal and non-commercial purposes , conditioned on your compliance with these terms . 
+you will not use , copy , adapt , modify , decompile , reverse-engineer , disassemble , decrypt , attempt to derive the source code of , prepare derivative works based upon , distribute , license , sell , rent , transfer , publicly display , publicly perform , transmit , stream , broadcast or otherwise exploit the software and content , except as expressly permitted by oculus or as permitted under applicable law . 
+any unauthorised use of the services is strictly prohibited and will terminate the licence granted in these terms . 
+no licences or rights are granted to you by implication or otherwise , except for the licences and rights expressly granted to you . 
+subject to these terms , including the licence provided in section 3.1 , you may access , install and use the oculus runtime software -lrb- `` runtime '' -rrb- . 
+in order to maximise your enjoyment , safety and overall experience through our services , the runtime may only be used with oculus-approved hardware devices and with software developed using the oculus rift software development kit , as specified in the oculus rift software development kit licence agreement . 
+we also require that you use only the then-current version of the runtime . 
+you acknowledge that the runtime incorporates proprietary information , and that you will not disclose it to any other person or entity . 
+your use of services , applications or content provided by third parties -lrb- `` third-party content '' -rrb- made available through the services may be subject to additional end-user agreements . 
+in the event that these agreements conflict with the provisions of these terms , these terms will govern . 
+oculus has no responsibility or liability with respect to your access to or use of the third-party content , or any content or functionality contained in such third-party content , your rights to which are solely provided pursuant to a licence between you and the provider of such third-party content . 
+in no event shall oculus be considered the licensor of the third-party content , to have granted any rights to use the third - party content , to have assumed any obligations with respect to the third-party content , or to have made any representations or warranties with respect to the third-party content . 
+if you are not presented with an end-user licence agreement when you acquire third-party content , the following licence terms apply to your use of such third-party content : -lrb- a -rrb- the third party providing the third-party content -lrb- and not oculus -rrb- is the licensor of such third-party content ; -lrb- b -rrb- such party grants you a limited , non-transferable licence to access and use the third-party content only for your personal and non-commercial purposes ; and -lrb- c -rrb- you may not modify , decompile or disassemble the third-party content in whole or in part , or create any derivative works from or sublicense any rights in or to the third-party content , unless otherwise expressly authorised by the third party or as permitted under applicable law . 
+3.4 trial access to services . 
+we may offer free trials or other limited versions of services so that you can preview services before you purchase the full version . 
+these versions may have limited features , restrict permitted time of use and contain other limitations . 
+3.5 availability of services after purchase ; updates . 
+some services may rely on services provided by third parties for some or all of their functionality . 
+such services may not function properly or may become inoperable if these third parties discontinue their services . 
+oculus will be responsible for all billing questions related to the purchase of services and for support with respect to the oculus platform . 
+oculus has no obligation to provide support for third-party content . 
+please contact us through the support portal at https://support.oculus.com for assistance . 
+the services and content may not be available in all territories and jurisdictions , and we may restrict or prohibit use of all or a portion of the services and content in certain territories and jurisdictions . 
+you may be charged by your network provider for data services or any other third-party charges as may arise while using the services , and you accept responsibility for such charges . 
+if you are not the bill payer , we will assume that you have received permission from the bill payer . 
+4.1 purchasing services from oculus . 
+you may only purchase services for your personal use or to give as a gift unless otherwise expressly permitted in these terms . 
+you may not purchase services from oculus for commercial use or resale , although you may use oculus services to develop and test content , software or applications intended for distribution by oculus . 
+when placing an order or making a purchase , you will be required to provide us with information , such as your address and billing information . 
+you represent and warrant that all such information is accurate , and you will ensure that such information is kept up to date . 
+oculus will have no responsibility or liability for inaccurate information or information that later becomes outdated , and oculus will have no obligation to make efforts to determine the correct contact or delivery information . 
+for most services , you can manage your information within your account settings . 
+for product purchases pending dispatch , you can update your information at any time prior to dispatch at https://shop.oculus.com/history . 
+we will not take payment for product purchases until order acceptance -lrb- see below -rrb- . 
+after you place an order , you may receive a communication from us acknowledging that we have received your order -lrb- `` order acknowledgement '' -rrb- . 
+please note that receiving the order acknowledgement does not mean that your order has been accepted . 
+we will confirm our acceptance of your order by sending you a communication that confirms that the order has been processed or the goods have been dispatched -- when applicable -lrb- `` order acceptance '' -rrb- . 
+the contract between us in relation to the applicable services will be formed when we send you the order acceptance . 
+any delivery dates or times provided by us -lrb- or a courier -rrb- are estimates only and are not guaranteed . 
+the risk of loss of physical goods that you purchase and the responsibility to insure the goods passes to you upon delivery of the goods to you . 
+nothing in these terms shall affect your statutory rights to reject physical goods that , when received by you , are damaged or defective . 
+in advance of a new service launch , it may be possible to place pre-orders . 
+the price of the service that you pre-order will be as quoted to you at the time when you submit your pre-order , and may include tax and delivery charges when applicable . 
+placing a pre-order does not guarantee delivery of a service . 
+when the service is ready for dispatch or delivery , we will contact you to provide you with your purchase confirmation -lrb- including delivery costs and any taxes where applicable -rrb- . 
+this shall constitute the order acceptance . 
+4.3 our right to reject your order . 
+at any time prior to order acceptance , we reserve the right to decline or reject your order . 
+if this occurs , we will attempt to notify you . 
+some reasons for rejection can include : -lrb- a -rrb- we are unable to supply you with the service , for example because that item is no longer available or because of an error in the price at the point of sale ; -lrb- b -rrb- you do not live in a country or region from which the services may be purchased ; or -lrb- c -rrb- you order more than the permitted maximum number of services . 
+if you have already paid , we will refund you the full amount , including any delivery costs charged . 
+4.4 your right to cancel or return physical goods . 
+you may cancel your order or pre-order of physical goods at any time prior to dispatch and order acceptance . 
+after the goods have been delivered to you , you have the right , within 30 days from the date of your receipt of the goods , to cancel our contract with you and return the goods . 
+this right does not apply to any goods that have been used , or are stated by us to be non-returnable , including any items or goods that have been personalised or modified in accordance with your instructions . 
+the goods must be fully returned in the original packaging with the applicable proof of purchase , and you will be responsible for the cost of returning the goods to us . 
+if , on return to us , it is determined that the goods have been used or damaged , are missing components or are not in a resalable condition , we may charge a 15 % restocking fee or otherwise reduce the amount of your refund to take into account the damage , use or missing components . 
+to cancel your order or return your goods , you must inform us of your decision by following the instructions at https://support.oculus.com . 
+you may have the ability to purchase digital content through the services . 
+you may also have the ability to purchase additional or enhanced functionality or media content within certain services -lrb- collectively , `` in-app purchases '' -rrb- . 
+except as described in these terms , we have no responsibility for any transactions that you enter into with a third party for third-party content or in-app purchases and assume no liability for third-party content or third-party in-app purchases that occur within third-party content . 
+we attempt to be as accurate as possible and to eliminate errors in relation to our services ; however , we do not represent or warrant that any service descriptions or pricing information are accurate , complete , reliable , current or error-free . 
+in the event of an error , we reserve the right to correct such error and revise your order accordingly -lrb- which includes charging the correct price -rrb- or to cancel the order and refund any amount charged . 
+if we discover a pricing or other material error related to a service that has yet to be dispatched or delivered , we will contact you to inform you of this error and give you the option of continuing to purchase at the correct price or cancelling your order . 
+if we are unable to contact you using the contact details that you provided during the order process , we will treat the order as cancelled . 
+you may be required to be a registered user in order to purchase some services . 
+you are responsible for all charges incurred in connection with your account . 
+oculus may attempt to collect unpaid charges , including by attempting additional charges to your payment instrument , use of collections agencies and any other legal means . 
+if you decide to cancel your account , oculus reserves the right , subject to any limitations under applicable laws , to collect fees , surcharges or costs incurred before cancellation . 
+any delinquent or unpaid accounts must be settled before oculus will allow you to register again . 
+your purchase of a virtual item or in-game currency within the services is a payment for a limited , non-assignable licence to access and use such content or functionality in the services . 
+virtual items -lrb- including characters and character names -rrb- or in-game currency purchased or available to you in the services can only be used in connection with the services where you obtained them or where they were developed by you as a result of gameplay . 
+these items are not redeemable or subject to refund and can not be traded outside of the services for money or other items for value . 
+we may modify or discontinue virtual items or in-game currency at any time . 
+we may accept various forms of payment , including credit and debit cards , and payments made through paypal and facebook payments . 
+additional terms with your payment provider may apply . 
+by submitting an order or pre-order , you acknowledge that you are authorised to use the designated payment method , and you authorise us to charge your order to that payment method . 
+when you provide your payment information , you authorise us -lrb- or a third-party payment processor -rrb- to process and store your payment and related information . 
+depending on where you are located or ask to have services delivered , oculus may utilise an agent , subsidiary or affiliate to process payment and delivery . 
+in the event that the payment method that you designate can not be verified , is invalid or is not otherwise acceptable , we may suspend or cancel your order . 
+you are responsible for resolving any problems that we encounter in order to proceed with your order . 
+prices are subject to change without notice . 
+we reserve the right to refuse or cancel orders at any time and at our sole discretion . 
+if your purchase or use of the services is subject to any type of value-added tax , duty or other governmental tax or fee -lrb- `` taxes '' -rrb- , then we may charge you for those taxes . 
+applicable taxes may be presented at checkout . 
+you are responsible for any taxes due with respect to your use of the services . 
+4.11 content cancellations ; returns . 
+all purchases of digital content are final , except as required by law or as described in our mobile and rift content refund policies . 
+once you 've purchased content , we encourage you to download , install and/or access it promptly . 
+if you are located in the eu , you consent that the supply of the digital content may begin immediately following the completion of your purchase and you acknowledge that you therefore will lose any statutory rights that you may have to withdraw and receive a refund . 
+if you are unable to download , install or access purchased content , please contact us through the support portal at https://support.oculus.com . 
+by accessing or using the services , you agree that you will not : -lrb- a -rrb- access or use the services in any manner that could interfere with , disrupt , negatively affect or inhibit anyone from fully enjoying the services , including , but not limited to , defamatory , harassing , threatening , bigoted , hateful , vulgar , obscene , pornographic or otherwise offensive behaviour or content ; -lrb- b -rrb- damage , disable , overburden or impair the functionality of the services in any manner ; -lrb- c -rrb- access or use the services for any illegal or unauthorised purpose , or engage in , encourage or promote any illegal activity or any activity that violates these terms , community standards or any other terms or policies provided in connection with the services ; -lrb- d -rrb- use or attempt to use another user 's account without authorisation from such user ; -lrb- e -rrb- modify , adapt , hack or emulate the services ; -lrb- f -rrb- use any robot , spider , crawler , scraper or other automated means or interface not provided or authorised by us to access the services or to extract data ; -lrb- g -rrb- circumvent or attempt to circumvent any filtering , security measures or other features designed to protect the services or third parties ; and -lrb- h -rrb- infringe upon or violate the rights of oculus , our users or any third party . 
+our services may include interactive features and areas where you may submit , post , upload , publish , email , send or otherwise transmit content , including , but not limited to , text , images , photos , videos , sounds , virtual-reality environments or features , software and other information and materials -lrb- collectively , `` user content '' -rrb- . 
+unless otherwise agreed to , we do not claim any ownership rights in or to your user content . 
+by submitting user content through the services , you grant oculus a worldwide , irrevocable , perpetual -lrb- i.e. lasting forever -rrb- , non-exclusive , transferable , royalty-free and fully sublicensable -lrb- i.e. we can grant this right to others -rrb- right to use , copy , display , store , adapt , publicly perform and distribute such user content in connection with the services . 
+you irrevocably consent to any and all acts or omissions by us or persons authorised by us that may infringe any moral right -lrb- or analogous right -rrb- in your user content . 
+you are solely responsible for the user content that you make available through the services and you represent and warrant that -lrb- a -rrb- you either are the sole and exclusive rights owner of all user content that you provide or you have obtained all rights , licences , permissions , consents and releases that are necessary to grant to oculus the rights specified in this section ; -lrb- b -rrb- the provision of your user content , and our subsequent use of such user content , will not infringe , misappropriate or violate any third party 's patent , copyright , trademark , trade secret , moral rights or other proprietary or intellectual property rights , or rights of publicity or privacy , or result in the violation of any applicable laws or regulations ; and -lrb- c -rrb- your user content does not violate our community standards . 
+oculus does not endorse or guarantee the opinions , views , advice or recommendations posted or sent by users . 
+oculus has no responsibility or liability for user content made available through the services , and we have no obligation to screen , edit or monitor such content . 
+however , we do reserve the right , and have absolute discretion , to remove , screen or edit user content at any time and for any reason . 
+in the event that you are a developer who submits user content to oculus , you acknowledge and agree that our agreements with you as a developer may supersede this section of the terms . 
+our privacy policy , which is available at https://www.oculus.com/legal/privacy-policy/ , is incorporated into these terms and sets forth how we treat data , including how we collect , use and disclose information . 
+in addition , certain third parties -lrb- such as developers of third-party content and the manufacturers of your computer , mobile phone or other devices -rrb- may collect information about you when you use the services . 
+these third parties have their own privacy policies and will treat the information that they collect about you in accordance with these policies . 
+we encourage you to review these privacy policies before providing any information to third parties . 
+we are not responsible for the accuracy of any third party 's privacy policy or for ensuring that third parties comply with their privacy policies . 
+these terms are in addition to , and do not replace or change , any other agreements that you enter into with oculus , which may include , but are not limited to , our developer agreements , special device terms of use , community standards and contest , competition or promotion-related terms . 
+in addition , if you purchase physical goods from oculus , other terms of sale or promotion may apply from time to time . 
+your purchase and use of third-party content may be subject to additional terms , including , but not limited to , third-party end-user agreements , and privacy policies . 
+we encourage you to review any third-party agreements and policies carefully before accessing , downloading or using third-party content . 
+we may display age , comfort and content ratings for digital content that are based on information provided to us by the developers of such content . 
+we can not guarantee that digital content ratings will always be accurate , nor can we promise that you will not find some material harmful , offensive , indecent or objectionable . 
+unless otherwise indicated , the services are the property of oculus or our licensors and are protected by copyright , trademark and other laws of the united states and foreign countries . 
+you will not remove , alter or obscure any copyright , trademark , service mark or other proprietary rights notices incorporated in or accompanying the services . 
+oculus , oculus vr , rift and the oculus logo -lrb- `` oculus marks '' -rrb- are trademarks or registered trademarks of oculus vr , llc . 
+the oculus marks and those of its affiliates may not be copied , imitated or used , in whole or in part , without prior written permission , including as authorised by any applicable brand guidelines . 
+all other trademarks , service marks , logos , trade names and any other proprietary designations are the trademarks or registered trademarks of their respective owners and may not be used without permission of the applicable trademark holder . 
+separate and apart from user content , you may submit questions , comments , suggestions , ideas , plans , notes , drawings , original or creative materials or other information about oculus and our services -lrb- collectively , `` feedback '' -rrb- . 
+you agree that oculus and its affiliates shall be able to use the feedback in any way it may choose without any obligation to you . 
+export compliance and us government rights 
+you will comply with all applicable export control laws of the united states and any other applicable governmental authority , including , without limitation , the us export administration regulations -lrb- `` export laws '' -rrb- . 
+you will not , directly or indirectly , export , re-export or download any products , services or technology of oculus , including , without limitation , the services : -lrb- a -rrb- to any individual , entity or country prohibited by export laws , including by any us sanctions programme ; -lrb- b -rrb- to anyone on the sdn list , the denied persons list or entity list or other export control lists ; or -lrb- c -rrb- for any purpose prohibited by export laws , including nuclear , chemical or biological weapons proliferation or the development of missile technology . 
+you further represent and warrant that no us federal agency has suspended , revoked or denied your export privileges and you are not listed on the sdn list . 
+the services , including all related software , technical data and documentation , are `` commercial items '' as that term is defined in section 2.101 of title 48 of the us code of federal regulations -lrb- u.s.c. -rrb- . 
+we provide the services for us government end use solely in accordance with the following : -lrb- a -rrb- the services are licensed only as commercial items ; and -lrb- b -rrb- the us government will have the same rights as all other end users pursuant to these terms . 
+this customary commercial licence is provided in accordance with far 12.211 -lrb- technical data -rrb- and far 12.212 -lrb- software -rrb- and , for us department of defense transactions , dfars 252.227-7015 -lrb- technical data -- commercial items -rrb- and dfars 227.7202-3 -lrb- rights in commercial computer software or computer software documentation -rrb- . 
+if a us government agency has a need for any additional rights , it must negotiate directly with oculus to determine if the parties can negotiate an acceptable licence amendment that must be included in any applicable contract or agreement . 
+in accordance with the us digital millennium copyright act -lrb- `` dmca '' -rrb- and other applicable laws , we have adopted a policy of terminating , in appropriate circumstances and at our sole discretion , accounts of users who are deemed to be repeat infringers . 
+we may also , at our sole discretion , limit access to the services and/or terminate the accounts of any users who infringe any intellectual property rights of others , whether or not there is any repeat infringement . 
+if you believe that anything on or available through the services infringes upon any copyright which you own or control , you may file a notification of such infringement with our designated agent as set forth below : 
+address : 1601 willow road , menlo park , ca 94025 , usa 
+please see section 512 -lrb- c -rrb- -lrb- 3 -rrb- of title 17 of the us code -lrb- available at http://www.copyright.gov/title17/92chap5.html#512 -rrb- for the requirements of a proper notification . 
+if you knowingly misrepresent in your notification that the material or activity is infringing , you will be liable for any damages , including costs and legal fees , incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing . 
+you are granted a limited , non-exclusive right to create text hyperlinks to our websites for non-commercial purposes ; however , you may not use our logos or other proprietary graphics to link to our sites without our express written permission . 
+the services may contain links to third-party websites , applications or other third-party services , and you understand that by accessing third-party links , you may be exposed to content that is offensive , harmful , inaccurate or otherwise inappropriate . 
+you understand and agree that we are not responsible or liable for the availability or accuracy of such third-party properties or the content , products or services made available through such properties . 
+we do not endorse or control such third-party properties and we make no representations or warranties of any kind regarding such properties . 
+if you access or use any third-party properties , you should also be aware that such third parties ' terms and policies will govern . 
+15.1 there are important health and safety warnings and instructions that you must read before using the services , which are available at https://www.oculus.com/legal/health-and-safety-warnings/ . 
+by using the services , you represent and warrant that you have read and understand these warnings and instructions . 
+we may update or revise these warnings and instructions , so please review them periodically . 
+additional health and safety warnings and instructions may be provided by developers in relation to specific third-party content . 
+you represent and warrant that you will read all health and safety warnings and instructions before using the services . 
+15.2 you expressly acknowledge and agree that your access to and use of the services is at your sole risk . 
+as between you and oculus , to the maximum extent permitted by applicable law , the services are provided on an `` as is '' and `` as available '' , basis , and oculus expressly disclaims all representations , warranties and conditions -lrb- express or implied , oral or written -rrb- , including any implied warranties of merchantability , fitness for a particular purpose and non-infringement . 
+in addition , oculus does not represent or warrant that -lrb- a -rrb- the functions contained in the services will be accurate or meet your requirements ; -lrb- b -rrb- the operation of the services will be secure , uninterrupted , error-free or virus-free ; or -lrb- c -rrb- any defects in the services will be corrected . 
+no oral or written information , guidelines or advice given by oculus will create a warranty . 
+the foregoing disclaimer of warranties will apply to the maximum extent permitted by applicable law . 
+the laws of some states or jurisdictions do not allow the disclaimer of implied warranties , so some or all of the disclaimers in this section may not apply to you . 
+you agree to defend , indemnify and hold harmless oculus and our affiliates , independent contractors and service providers , and each of our respective directors , officers , employees and agents -lrb- collectively , `` oculus parties '' -rrb- from and against all third-party claims , damages , costs , liabilities and expenses -lrb- including , but not limited to , reasonable legal fees -rrb- caused by , arising out of or related to -lrb- a -rrb- your purchase or use of , or inability to use , the services ; -lrb- b -rrb- your violation of these terms or any other applicable terms , policies , warnings or instructions provided by oculus or a third party in relation to the services ; -lrb- c -rrb- your violation of any applicable law or any rights of any third party ; or -lrb- d -rrb- any user content or feedback that you provide . 
+the oculus parties shall have no liability for any lost profits or other consequential , special , punitive , indirect or incidental damages , arising from or related to your use or inability to use the services , even if an oculus party has been advised of the possibility of such damages . 
+in no event shall the aggregate liability of the oculus parties arising out of or relating to the use of or inability to use the services exceed the greater of one hundred us dollars -lrb- $ 100 -rrb- or the amount that you paid us to use our services . 
+the foregoing disclaimer of certain damages and limitation of liability will apply to the maximum extent permitted by applicable law . 
+the laws of some states or jurisdictions do not allow the exclusion or limitation of certain damages , so some or all of the exclusions and limitations set forth above may not apply to you . 
+notwithstanding anything to the contrary in these terms , nothing in these terms excludes or limits our liability for fraud or for death or personal injury caused by our negligence . 
+please read the following section carefully because it requires you to submit to binding arbitration -lrb- jury trial waiver -rrb- of any and all disputes -lrb- other than specified intellectual property claims and small claims -rrb- with oculus and limits the manner in which you can seek relief from oculus -lrb- no class arbitrations , class actions or representative actions or arbitrations -rrb- . 
+18.1 binding arbitration ; disputes ; small claims . 
+you and oculus agree to waive any right to a jury trial , or the right to have any dispute resolved in any court , and instead accept the use of binding arbitration -lrb- which is the referral of a dispute to one or more impartial persons for a final and binding determination -rrb- ; provided , however , that you have the right to litigate any dispute in small claims court , if all of the requirements of the small claims court , including any limitations on jurisdiction and the amount at issue in the dispute , are satisfied . 
+you agree to bring a dispute in small claims court in san mateo county , california , or , if you reside in the us , in a small claims court in your county of residence . 
+`` dispute '' as used in this section 18 means any dispute , cause of action , claim or controversy arising out of or in any way related to oculus , these terms , the subject matter of these terms or access to and use of the services , including , but not limited to , contract , personal injury , tort , warranty , statute or regulation , or other legal or equitable basis and disputes that involve third parties -lrb- such as developers of third-party content -rrb- , except any dispute , cause of action , claim or controversy relating to oculus ' intellectual property -lrb- such as trademarks , trade dress , domain names , trade secrets , copyrights and/or patents -rrb- . 
+you and oculus empower the arbitrator with the exclusive authority to resolve any dispute relating to the interpretation , applicability or enforceability of these terms or formation of this contract , including the arbitrability of any dispute and any claim that all or any part of these terms are void or voidable . 
+18.2 no class arbitrations , class actions or representative actions . 
+you and oculus agree that any dispute is personal to you and oculus , and that any dispute shall only be resolved by an individual arbitration and shall not be brought as a class arbitration , a class action or any other representative proceeding . 
+neither party agrees to class arbitration , or an arbitration where a person brings a dispute as a representative of any other person or persons . 
+neither you nor oculus agree that a dispute can be brought as a class or representative action whether inside or outside arbitration , or on behalf of any other person or persons . 
+18.3 us federal arbitration act . 
+you and oculus agree that these terms affect interstate commerce and that the enforceability of section 18 shall be governed by , construed and enforced , both substantively and procedurally , by the us federal arbitration act , title 9 -lrb- 1 -rrb- et seq. . 
+u.s.c. -lrb- `` faa '' -rrb- to the maximum extent permitted by applicable law . 
+the arbitrator , oculus and you shall maintain the confidentiality of any proceedings , including , but not limited to , any and all information gathered , prepared and presented for the purposes of the arbitration or related to the dispute -lrb- s -rrb- therein . 
+the arbitrator shall have the authority to make appropriate rulings to safeguard that confidentiality , unless the law provides to the contrary . 
+our goal is to resolve claims fairly and quickly . 
+accordingly , for any dispute that you have against oculus , you agree to first contact oculus and attempt to resolve the claim informally by sending a written notice of your claim -lrb- `` notice '' -rrb- to oculus . 
+the notice to oculus must be sent by certified post addressed to : general counsel , oculus vr , llc , 1601 willow road , menlo park , ca 94025 , usa . 
+the notice must -lrb- a -rrb- include your name , residence address and the email address and/or mobile telephone number associated with your account ; -lrb- b -rrb- describe the nature and basis of the claim ; and -lrb- c -rrb- set forth the specific relief sought . 
+if you and oculus can not reach an agreement to resolve the claim within 30 days after such notice is received , then either party may , as appropriate in accordance with this section 18 , commence an arbitration proceeding or file a claim in court . 
+you and oculus agree that any dispute must be commenced or filed within one year after such claim arose ; otherwise , the dispute is permanently barred . 
+in the event that you and oculus can not resolve a dispute and you do not pursue your claims through small claims court , you or oculus shall promptly submit the dispute to binding arbitration at the office of the american arbitration association -lrb- `` aaa '' -rrb- . 
+in the event aaa declines or is unable to administer the arbitration , you and oculus agree to use an arbitration forum or arbitrator that you and oculus mutually agree upon . 
+if , after making a reasonable effort , you and oculus are not able to agree upon an arbitration forum or arbitrator , aaa or a court having proper jurisdiction will appoint an arbitration forum or arbitrator . 
+the arbitration will be conducted in accordance with the aaa consumer arbitration rules -lrb- `` aaa rules '' -rrb- then in effect . 
+the aaa rules and other information about aaa and arbitration are readily available at http://www.adr.org , by calling +1 800 778 7879 or by post to 120 broadway , floor 21 , new york , ny 10271 , usa . 
+by entering into these terms , you either -lrb- 1 -rrb- acknowledge that you have read and understand the aaa rules ; or -lrb- 2 -rrb- waive reading the aaa rules and waive any claim that the aaa rules are unfair in any way . 
+you and oculus agree that these terms govern the arbitration , and that the applicable aaa rules shall be subject to changes in procedures that aaa may make from time to time . 
+as limited by the faa , these terms and the applicable aaa rules , the arbitrator will have the exclusive power and jurisdiction to make all procedural and substantive decisions concerning the dispute , provided , however , that this power does not include the power to conduct a class arbitration or a representative action , which is prohibited by these terms -lrb- as stated above -rrb- . 
+the arbitrator may only conduct an individual arbitration , may not consolidate more than one person 's claims and may not preside over any form of representative or class proceeding , or any proceeding on behalf of or involving more than one person or persons . 
+unless the arbitrator finds that the arbitration was frivolous or brought for an improper purpose , oculus will pay all filing , aaa and arbitrator 's fees and expenses . 
+if the arbitrator issues you an award that is greater than the value of our last written settlement offer made before an arbitrator was selected -lrb- or if we did not make a settlement offer before an arbitrator was selected -rrb- , then we will pay you the amount of the award or usd 5,000 , whichever is greater , and pay your legal adviser , if any , the amount of legal fees incurred , and reimburse any expenses -lrb- including expert witness fees and costs -rrb- that you or your legal adviser reasonably accrue for investigating , preparing and pursuing your claim in arbitration . 
+we waive any right to seek an award of legal fees and expenses in connection with any non-frivolous arbitration between you and us . 
+18.6 right to opt out . 
+you may opt out of this agreement to arbitrate . 
+if you do so , neither you nor oculus can require the other to participate in an arbitration proceeding . 
+to opt out , you must notify us in writing within 30 days of the date that you first became subject to this arbitration provision , and must include your name and home address , the email address that you use for your oculus account -lrb- if you have one -rrb- and a clear statement that you want to opt out of this arbitration agreement . 
+any requests to opt out must be sent to : general counsel , oculus vr , llc , 1601 willow rd. , menlo park , ca 94025 , usa . 
+unless you choose to opt out , this dispute resolution provision in section 18 shall survive termination of these terms . 
+19.1 oculus is based in the united states and our services are subject to us law . 
+we make no representations or warranties that the services are appropriate or available for use in other locations . 
+19.2 the laws of the state of california , excluding its conflicts of law rules , govern your access to and use of the services . 
+your access to and use of the services may also be subject to other local , regional , national or international laws . 
+19.3 to the extent that the provisions in section 18 do not apply , you further agree that all disputes , causes of action , claims or controversies arising under these terms that can not be settled through informal negotiation will be resolved exclusively in the united states district court for the northern district of california or a state court located in san mateo county , and you agree to submit to the personal jurisdiction of such courts for the purposes of litigating all such claims . 
+oculus reserves the right to change , suspend , remove , discontinue or disable access to the services or particular portions thereof , at any time and without notice . 
+in no event will oculus be liable for the removal of or disabling of access to any portion or feature of the services . 
+we reserve the right to terminate your right to access and use the services if you violate these terms or any other terms or policies referenced herein , or if you otherwise create risk or possible legal exposure for us . 
+if any provision of these terms shall be deemed unlawful , void or for any reason unenforceable , then that provision shall be deemed severable from these terms and shall not affect the validity and enforceability of any remaining provisions . 
+you may not assign these terms or any of the rights granted hereunder without the prior written consent of oculus , and any attempted assignment without such consent shall be void . 
+subject to the foregoing restriction , these terms will be fully binding upon , inure to the benefit of and enforceable by us and our respective successors and assignees . 
+any failure by oculus to insist upon or enforce performance by you of any of the provisions of these terms or to exercise any rights or remedies under these terms or otherwise by law will not be construed as a waiver or relinquishment of any right to assert or rely upon the provision , right or remedy in that or any other instance ; rather , the provision , right or remedy will be and remain in full force and effect . 
+if you have any questions or concerns regarding these terms or our services , please contact us through the support portal at https://support.oculus.com . 
+special provisions applicable to users outside the united states 
+certain specific terms that apply only for german users are available at https://www.oculus.com/legal/terms-applicable-to-germany/ . 
+please review these terms carefully if you reside in germany . 

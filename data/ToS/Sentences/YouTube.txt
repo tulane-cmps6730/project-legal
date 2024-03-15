@@ -1,0 +1,113 @@
+1.1 your use of the youtube website -lrb- the `` website '' -rrb- and any youtube products , channels , software , data feeds and services , including the youtube embeddable video player -lrb- the `` youtube player '' -rrb- provided to you on or from or through the website by youtube -lrb- collectively the `` service '' -rrb- is subject to the terms of a legal agreement between you and youtube . 
+`` youtube '' means youtube llc , whose principal place of business is at 901 cherry avenue , san bruno , ca 94066 , united states . 
+1.2 your legal agreement with youtube is made up of -lrb- a -rrb- the terms and conditions set out in this document , -lrb- b -rrb- youtube 's privacy policy -lrb- https://www.youtube.co.uk/t/privacy -rrb- and -lrb- c -rrb- youtube 's community guidelines -lrb- https://www.youtube.co.uk/t/community_guidelines -rrb- -lrb- collectively called the `` terms '' -rrb- . 
+1.3 the terms form a legally binding agreement between you and youtube in relation to your use of the service . 
+it is important that you take the time to read them carefully . 
+1.4 the terms apply to all users of the service , including users who are also contributors of content , on the service . 
+`` content '' includes the text , software , scripts , graphics , photos , sounds , music , videos , audiovisual combinations , interactive features and other materials you may view on , access through or contribute to the service . 
+2.1 in order to use the service , you must firstly agree to the terms . 
+you may not use the service if you do not accept the terms . 
+2.2 you can accept the terms by simply using the service . 
+you understand and agree that youtube will treat your use of the service as acceptance of the terms from that point onwards . 
+2.3 you may not use the service and may not accept the terms if -lrb- a -rrb- you are not of legal age to form a binding contract with youtube , or -lrb- b -rrb- you are a person who is either barred or otherwise legally prohibited from receiving or using the service under the laws of the country in which you are resident or from which you access or use the service . 
+2.4 you should print off or save a local copy of the terms for your records . 
+youtube reserves the right to make changes the terms from time to time , for example to address changes to the law or regulatory changes or changes to functionality offered through the service . 
+therefore you must look at the terms regularly to check for such changes . 
+the modified version of the terms -lrb- the `` modified terms '' -rrb- will be posted at https://www.youtube.co.uk/t/terms or made available within the service -lrb- for any modified additional terms -rrb- . 
+if you do not agree to the modified terms you must stop using the service . 
+your continued use of the service after the date the modified terms are posted will constitute your acceptance of the modified terms . 
+4.1 in order to access some features of the website or other elements of the service , you will have to create a youtube account . 
+when creating your account , you must provide accurate and complete information . 
+it is important that you must keep your youtube account password secure and confidential . 
+4.2 you must notify youtube immediately of any breach of security or unauthorised use of your youtube account that you become aware of . 
+4.3 you agree that you will be solely responsible -lrb- to youtube , and to others -rrb- for all activity that occurs under your youtube account . 
+5.1 youtube hereby grants you permission to access and use the service , subject to the following express conditions , and you agree that your failure to adhere to any of these conditions shall constitute a breach of these terms on your part : 
+a. you agree not to distribute any part of or parts of the website or the service , including but not limited to any content , in any medium without youtube 's prior written authorisation , unless youtube makes available the means for such distribution through functionality offered by the service -lrb- such as the youtube player -rrb- ; 
+b. you agree not to alter or modify any part of the website or any of the service -lrb- including but not limited to the youtube player and its related technologies -rrb- ; 
+c. you agree not to access content through any technology or means other than the video playback pages of the website itself , the youtube player , or such other means as youtube may explicitly designate for this purpose ; 
+d. you agree not to -lrb- or attempt to -rrb- circumvent , disable or otherwise interfere with any security related features of the service or features that -lrb- i -rrb- prevent or restrict use or copying of content or -lrb- ii -rrb- enforce limitations on use of the service or the content accessible via the service ; 
+e. you agree not to use the service -lrb- including the youtube player -rrb- for any of the following commercial uses unless you obtain youtube 's prior written approval : 
+i. the sale of access to the service 
+the sale of advertising , sponsorships or promotions placed on or within the service , or content ; 
+the sale of advertising , sponsorships or promotions on any page of an ad-enabled blog or website containing content delivered via the service unless other material not obtained from youtube appears on the same page and is of sufficient value to be the basis for such sales 
+f. prohibited commercial uses shall not include -lrb- i -rrb- uploading an original video to youtube , -lrb- ii -rrb- maintaining an original channel on the website in order to promote a business or artistic enterprise , -lrb- iii -rrb- showing youtube videos through the youtube player or otherwise on an ad-enabled blog or website , subject to those advertising restrictions set out in 5.1 -lrb- e -rrb- -lrb- iii -rrb- above ; and -lrb- iv -rrb- any use that is expressly authorised by youtube in writing ; 
+g. if you use the youtube player on your website may not modify , build upon or block any portion or functionality of the youtube player including but not limited to links back to the website ; 
+h. you agree not to use or launch any automated system -lrb- including , without limitation , any robot , spider or offline reader -rrb- that accesses the service in a manner that sends more request messages to the youtube servers in a given period of time than a human can reasonably produce in the same period by using a publicly available , standard -lrb- i.e. not modified -rrb- web browser ; 
+i. you agree not to collect or harvest any personal data of any user of the website or any service -lrb- and agree that this shall be deemed to include youtube account names -rrb- ; 
+j. you agree not to use the website or the services -lrb- including the comments and email features in the website -rrb- for the solicitation of business in the course of trade or in connection with a commercial enterprise ; 
+k. you agree not to solicit , for commercial purposes , any users of the website with respect to their content ; and 
+l. you agree not to access content or any reason other than your personal , non-commercial use solely as intended through and permitted by the normal functionality of the service , and solely for streaming . 
+`` streaming '' means a contemporaneous digital transmission of the material by youtube via the internet to a user operated internet enabled device in such a manner that the data is intended for real-time viewing and not intended to be downloaded -lrb- either permanently or temporarily -rrb- , copied , stored , or redistributed by the user . 
+you shall not copy , reproduce , distribute , transmit , broadcast , display , sell , license , or otherwise exploit any content for any other purposes without the prior written consent of youtube or the respective licensors of the content . 
+5.2 you agree that you will comply with all of the other provisions of the terms and the youtube community guidelines at all times during your use of the service . 
+5.3 youtube grants the operators of public search engines permission to use spiders to copy materials from the site for the sole purpose of creating publicly available searchable indices of the materials , but not caches or archives of such materials . 
+youtube reserves the right to revoke these exceptions either generally or in specific cases . 
+5.4 youtube is constantly innovating in order to provide the best possible experience for its users . 
+you acknowledge and agree that the form and nature of the service which youtube provides may change from time to time without prior notice to you . 
+5.5 as part of this continuing innovation , you acknowledge and agree that youtube may stop -lrb- permanently or temporarily -rrb- providing the service -lrb- or any features within the service -rrb- to you or to users generally at youtube 's sole discretion , without prior notice to you . 
+you may stop using the service at any time . 
+you do not need to specifically inform youtube when you stop using the service . 
+5.6 you agree that you are solely responsible for -lrb- and that youtube has no responsibility to you or to any third party for -rrb- any breach of your obligations under the terms and for the consequences -lrb- including any loss or damage which youtube may suffer -rrb- of any such breach . 
+6.1 youtube operates a clear copyright policy in relation to any content that is alleged to infringe the copyright of a third party . 
+details of that policy can be found here : https://www.youtube.co.uk/t/copyright_notice 
+6.2 as part of youtube 's copyright policy , youtube will terminate user access to the / service if a user has been determined to be a repeat infringer . 
+a repeat infringer is a user who has been notified of infringing activity more than twice . 
+7.1 as a youtube account holder you may submit content . 
+you understand that whether or not content is published , youtube does not guarantee any confidentiality with respect to content . 
+7.2 you retain all of your ownership rights in your content , but you are required to grant limited licence rights to youtube and other users of the service . 
+these are described in paragraph 8 of these terms -lrb- rights you licence -rrb- . 
+7.3 you understand and agree that you are solely responsible for your own content and the consequences of posting or publishing it . 
+youtube does not endorse any content or any opinion , recommendation , or advice expressed therein , and youtube expressly disclaims any and all liability in connection with content . 
+7.4 you represent and warrant that you have -lrb- and will continue to have during your use of the service -rrb- all necessary licenses , rights , consents , and permissions which are required to enable youtube to use your content for the purposes of the provision of the service by youtube , and otherwise to use your content in the manner contemplated by the service and these terms . 
+7.5 you agree that your conduct on the site will comply with -lrb- and you agree that the content of all of your content shall comply with -rrb- the youtube community guidelines , found at https://www.youtube.co.uk/t/community_guidelines , as updated from time to time . 
+7.6 you agree that you will not post or upload any content which contains material which it is unlawful for you to possess in the country in which you are resident , or which it would be unlawful for youtube to use or possess in connection with the provision of the service . 
+7.7 you agree that content you submit to the service will not contain any third party copyright material , or material that is subject to other third party proprietary rights -lrb- including rights of privacy or rights of publicity -rrb- , unless you have a formal licence or permission from the rightful owner , or are otherwise legally entitled , to post the material in question and to grant youtube the licence referred to in paragraph 8.1 below . 
+7.8 on becoming aware of any potential violation of these terms , youtube reserves the right -lrb- but shall have no obligation -rrb- to decide whether content complies with the content requirements set out in these terms and may remove such content and/or terminate a user 's access for uploading content which is in violation of these terms at any time , without prior notice and at its sole discretion . 
+7.9 you further understand and acknowledge that in using the service , you may be exposed to content that is factually inaccurate , offensive , indecent , or otherwise objectionable to you . 
+you agree to waive , and hereby do waive , any legal or equitable rights or remedies you have or may have against youtube with respect to any such content . 
+8.1 when you upload or post content to youtube , you grant : 
+a. to youtube , a worldwide , non-exclusive , royalty-free , transferable licence -lrb- with right to sub-licence -rrb- to use , reproduce , distribute , prepare derivative works of , display , and perform that content in connection with the provision of the service and otherwise in connection with the provision of the service and youtube 's business , including without limitation for promoting and redistributing part or all of the service -lrb- and derivative works thereof -rrb- in any media formats and through any media channels ; 
+b. to each user of the service , a worldwide , non-exclusive , royalty-free licence to access your content through the service , and to use , reproduce , distribute , prepare derivative works of , display and perform such content to the extent permitted by the functionality of the service and under these terms . 
+8.2 the above licenses granted by you in content terminate when you remove or delete your content from the website . 
+the above licenses granted by you in textual comments you submit as content are perpetual and irrevocable , but are otherwise without prejudice to your ownerships rights , which are retained by you as set out in paragraph 7.2 above . 
+9.1 with the exception of content submitted to the service by you , all other content on the service is either owned by or licensed to youtube , and is subject to copyright , trade mark rights , and other intellectual property rights of youtube or youtube 's licensors . 
+any third party trade or service marks present on content not uploaded or posted by you are trade or service marks of their respective owners . 
+such content may not be downloaded , copied , reproduced , distributed , transmitted , broadcast , displayed , sold , licensed , or otherwise exploited for any other purpose whatsoever without the prior written consent of youtube or , where applicable , youtube 's licensors . 
+youtube and its licensors reserve all rights not expressly granted in and to their content . 
+10.1 the service may include hyperlinks to other web sites that are not owned or controlled by youtube . 
+youtube has no control over , and assumes no responsibility for , the content , privacy policies , or practices of any third party websites . 
+10.2 you acknowledge and agree that youtube is not responsible for the availability of any such external sites or resources , and does not endorse any advertising , products or other materials on or available from such web sites or resources . 
+10.3 you acknowledge and agree that youtube is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources , or as a result of any reliance placed by you on the completeness , accuracy or existence of any advertising , products or other materials on , or available from , such web sites or resources . 
+10.4 youtube encourages you to be aware when you leave the service and to read the terms and conditions and privacy policy of each other website that you visit . 
+11.1 the terms will continue to apply until terminated by either you or youtube as set out below . 
+11.2 if you want to terminate your legal agreement with youtube , you may do so by -lrb- a -rrb- notifying youtube at any time and -lrb- b -rrb- closing your youtube account . 
+your notice should be sent , in writing , to youtube 's address which is set out at the beginning of these terms . 
+11.3 youtube may at any time terminate its legal agreement with you if : a.you have breached any provision of the terms -lrb- or have acted in manner which clearly shows that you do not intend to , or are unable to comply with the provisions of the terms -rrb- ; or b. youtube is required to do so by law -lrb- for example , where the provision of the service to you is , or becomes , unlawful -rrb- ; or 
+11.4 youtube may terminate its legal agreement with you if : youtube is transitioning to no longer providing the service to users in the country in which you are resident or from which you use the service ; or the provision of the service to you by youtube is , in youtube 's opinion , no longer commercially viable and in the case of each of a and b of this clause 11.4 shall , where possible , give reasonable notice of such termination . 
+11.5 when these terms come to an end , all of the legal rights , obligations and liabilities that you and youtube have benefited from , been subject to -lrb- or which have accrued over time whilst the terms have been in force -rrb- or which are expressed to continue indefinitely , shall be unaffected by this cessation , and the provisions of paragraph 14.6 shall continue to apply to such rights , obligations and liabilities indefinitely . 
+12.1 nothing in the terms shall affect any statutory rights that you are always entitled to as a consumer and that you can not contractually agree to alter or waive . 
+12.2 the service is provided `` as is '' and youtube makes no warranty or representation to you with respect to them . 
+12.3 in particular youtube does not represent or warrant to you that : 
+a. your use of the service will meet your requirements , 
+b. your use of the service will be uninterrupted , timely , secure or free from error , 
+c. any information obtained by you as a result of your use of the service will be accurate or reliable , and 
+d. that defects in the operation or functionality of any software provided to you as part of the service will be corrected . 
+12.4 no conditions , warranties or other terms -lrb- including any implied terms as to satisfactory quality , fitness for purpose or conformance with description -rrb- apply to the service except to the extent that they are expressly set out in the terms . 
+13.1 nothing in these terms shall exclude or limit youtube 's liability for losses which may not be lawfully excluded or limited by applicable law . 
+13.2 subject to the overall provision in paragraph 13.1 above youtube shall not be liable to you for : a. any indirect or consequential losses which may be incurred by you . 
+this shall include ; -lrb- i -rrb- any loss of profit -lrb- whether incurred directly or indirectly -rrb- ; -lrb- ii -rrb- any loss of goodwill or business reputation ; -lrb- iii -rrb- any loss of opportunity ; or -lrb- iv -rrb- any loss of data suffered by you ; b.any loss or damage which may be incurred by you as a result of : i.any reliance placed by you on the completeness , accuracy or existence of any advertising , or as a result of any relationship or transaction between you and any advertiser or sponsor whose advertising appears on the service ; ii . 
+any changes which youtube may make to the service , or for any permanent or temporary cessation in the provision of the service -lrb- or any features within the service -rrb- ; iii . 
+the deletion of , corruption of , or failure to store , any content and other communications data maintained or transmitted by or through your use of the service ; iv . 
+your failure to provide youtube with accurate account information ; v. your failure to keep your password or youtube account details secure and confidential . 
+13.3 the limitations on youtube 's liability to you in paragraph 13.2 above shall apply whether or not youtube has been advised of or should have been aware of the possibility of any such losses arising . 
+14.1 the terms constitute the whole legal agreement between you and youtube and govern your use of the service and completely replace any prior agreements between you and youtube in relation to the service . 
+all other terms of service that google inc. and any of its subsidiaries may have in place from time to time are expressly excluded from the terms . 
+14.2 you agree that youtube may provide you with notices , including those regarding changes to the terms , by email , regular mail , or postings on the service . 
+14.3 you agree that if youtube does not exercise or enforce any legal right or remedy which is contained in the terms -lrb- or which youtube has the benefit of under any applicable law -rrb- , this will not be taken to be a formal waiver of youtube 's rights and that those rights or remedies will still be available to youtube . 
+14.4 if any court of law , having the jurisdiction to decide on this matter , rules that any provision of these terms is invalid , then that provision will be removed from the terms without affecting the rest of the terms . 
+the remaining provisions of the terms will continue to be valid and enforceable . 
+14.5 you acknowledge and agree that each member of the group of companies of which youtube is a part shall be third party beneficiaries to the terms and that such other companies shall be entitled to directly enforce , and rely upon , any provision of the terms which confers a benefit on -lrb- or rights in favour of -rrb- them . 
+other than this , no other person or company shall be a third party beneficiary of the terms . 
+14.6 the terms , and your relationship with youtube under the terms , shall be governed by english law . 
+you and youtube agree to submit to the exclusive jurisdiction of the courts of england to resolve any legal matter arising from the terms . 
+notwithstanding this , you agree that youtube shall still be allowed to apply for injunctive remedies -lrb- or other equivalent types of urgent legal remedy -rrb- in any jurisdiction . 

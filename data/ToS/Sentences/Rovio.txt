@@ -1,0 +1,99 @@
+terms of service and end user license agreement -lrb- `` eula '' -rrb- 
+applicable from : 7 may 2013 . 
+previous version of this eula may be found here . 
+the following terms of service and end user license agreement -lrb- `` eula '' -rrb- constitute an agreement between you and rovio entertainment ltd , and its affiliates -lrb- `` rovio '' -rrb- . 
+this eula governs your use of software and services -lrb- as specified below -rrb- . 
+for purposes of this eula `` software '' means all software programs distributed , published or otherwise made available by rovio or its affiliates including , but not limited to mobile games , downloadable/installable games for personal computer , and games accessed by means of a browser or other online communication method . 
+software also includes updates and upgrades as well as accompanying manual -lrb- s -rrb- , packaging and other written , files , electronic or on-line materials or documentation , and any and all copies of such software and its materials . 
+`` services '' means all services made available by rovio , including but not limited to services accessed through mobile games , by means of a browser or by other online communication method . 
+software and services are collectively referred to as `` rovio services '' . 
+the software is licensed , not sold . 
+your use of the software -lrb- as specified below -rrb- is subject to the terms and conditions set forth in this eula . 
+by installing , using or accessing the rovio services or any materials included in or with the rovio services , you hereby accept the terms of this eula . 
+if you do not accept the terms of this eula , do not install , use or access the rovio services . 
+subject to this eula and its terms and conditions , rovio hereby grants you a non-exclusive , non-transferable , non-sublicensable , limited right and license to use one copy of the software for your personal non-commercial use for gameplay on a single computer or gaming unit , unless otherwise specified in the software documentation . 
+the rights granted herein are subject to your compliance with this eula . 
+the software is being licensed to you and you hereby acknowledge that no title or ownership in the software is being transferred or assigned and this eula is not to be construed as a sale of any rights in the software . 
+subject to this eula and its terms and conditions , rovio hereby grants you a non-exclusive , non-transferable , non-sublicensable , limited right and license to use the services as provided by rovio , for your personal non-commercial use , in the manner permitted by this eula . 
+the rights granted herein are subject to your compliance with this eula . 
+the term of your licenses under this eula shall commence on the date that you accept this eula and install or otherwise use the software and/or services and ends on the earlier date of either your disposal of the software and/or services or rovio 's termination of this eula . 
+your license terminates immediately if you attempt to circumvent any technical protection measures used in connection with the software and/or services or you otherwise use the software and/or services in breach of the terms of this eula . 
+ownership ; no other licenses . 
+rovio retains all right , title and interest in and to the rovio services , including , but not limited to , all copyrights , trademarks , trade secrets , trade names , proprietary rights , patents , titles , computer codes , audiovisual effects , themes , characters , character names , stories , dialog , settings , artwork , sound effects , musical works , and moral rights whether registered or not and all applications thereof . 
+the rovio services are protected by applicable laws and treaties throughout the world . 
+unless expressly authorized by mandatory legislation , the rovio services may not be copied , reproduced or distributed in any manner or medium , in whole or in part , without prior written consent from rovio . 
+all rights not expressly granted to you herein are reserved by rovio . 
+rovio services may include links to third party services and/or the third party services may be made available to you via rovio services . 
+these services may include , but are not limited to gameplay recording and sharing , social medial connectivity and the like . 
+these services are subject to respective third party terms and conditions . 
+please study these third party terms and conditions carefully as they constitute an agreement between you and the applicable third party service provider . 
+however , with regards to installable software that was delivered on a physical storage medium , you may transfer the entire software and accompanying documentation on a permanent basis to another person as long as you retain no copies -lrb- including archival or backup copies -rrb- of the software , accompanying documentation , or any portion or component of the software accompanying documentation , and the recipient agrees to the terms of this eula the software is intended for private use only . 
+the rovio services may include measures to control access to the rovio service , prevent unauthorized copies , or otherwise attempt to prevent anyone from exceeding the limited rights and licenses granted under this eula . 
+only rovio services subject to a valid license can be used to access online services , and download updates and patches . 
+you may not interfere with such access control measures or attempt to disable or circumvent such security features . 
+if you disable or otherwise tamper with the technical protection measures , the rovio services will not function properly . 
+the rovio services may allow you to create content , including but not limited to gameplay maps , screenshots or a video of your game play . 
+in exchange for use of the rovio services , and to the extent that your contributions through use of the rovio services give rise to any copyright , design right or any other intellectual or industrial property right you hereby grant rovio an exclusive , royalty-free , perpetual , irrevocable , fully transferable and sub-licensable worldwide right and license to use your contributions in any way and for any purpose including , but not limited to the rights to reproduce , copy , adapt , modify , perform , display , publish , broadcast , transmit , or otherwise communicate to the public by any means whether now known or unknown and distribute your contributions without any further notice or compensation to you of any kind for the whole duration of protection granted to intellectual and industrial property rights by applicable laws and international conventions . 
+if not expressly prohibited by mandatory legislation , you hereby waive any moral rights of paternity , publication , reputation , or attribution with respect to rovio 's and other players ' use and enjoyment of such assets in connection with the rovio services and related goods and services under applicable law . 
+this license grant to rovio , and the above waiver of any applicable moral rights , survives any termination of this eula . 
+the rovio services may require an internet connection to access the rovio services or its internet-based features , authenticate the software , or perform other functions . 
+in order for certain features of the rovio services to operate properly , you may be required to have and maintain -lrb- a -rrb- an adequate internet connection and/or -lrb- b -rrb- a valid and active account with an online service as set forth in the documentation related to rovio services . 
+by using the rovio services , you acknowledge and agree that third party data transfer fees may apply depending on your data plan . 
+please consult your carrier for further information . 
+if you do not maintain such accounts , then the rovio services or certain features of the rovio services may not operate or may cease to function properly , either in whole or in part . 
+information collection and use ; privacy policy 
+by installing , accessing or using the rovio services , you consent to these information collection and usage terms , including -lrb- where applicable -rrb- the transfer of data into a country outside of the european union and/or the european economic area or the united states of america . 
+rovio respects your privacy rights and recognizes the importance of protecting any information collected about you . 
+rovio 's privacy policy as amended from time to time is available at www.rovio.com/privacy -lrb- `` privacy policy '' -rrb- and applicable to this eula . 
+rovio 's privacy policy defines how , why and to which extent rovio collects and uses personal and non-personal information in relation to rovio 's products and services . 
+by installing , accessing or using the rovio services you explicitly agree with the terms and conditions of rovio 's privacy policy and to any terms and conditions included therein by reference . 
+payments and purchases of virtual goods 
+rovio may license to you certain virtual goods to be used within rovio services . 
+unless otherwise specified , these virtual goods shall be deemed an integral part of the software . 
+these virtual goods may be licensed both for a fee using `` real world money '' and without any separate fee , as applicable from time to time . 
+these virtual goods may also be licensed by using third party virtual currency , such as facebook credits or by using separate activation codes . 
+any and all virtual goods are licensed to you on limited , personal , non-transferable , non-sublicensable and revocable basis and limited only for non-commercial use . 
+please note that any payment for licenses for virtual goods or redemption of third party virtual currency is always final and non-refundable . 
+also please note that if you purchase facebook credits from facebook , such transaction is governed by the agreement between you and facebook and rovio is not a party to the transaction . 
+rovio may manage , regulate , control , modify or eliminate virtual goods at any time , with or without notice . 
+rovio shall have no liability to you or any third party in the event that rovio exercises any such rights . 
+subject to mandatory legislation , you acknowledge that rovio is not required to provide a refund for virtual goods for any reason , and that you will not receive money or other compensation for unused virtual goods , whether your loss of license under this eula was voluntary or involuntary . 
+6.1 warranty for physical software products 
+rovio warrants to you -lrb- if you are the initial and original purchaser of the software -rrb- that , to the extent the software is made available to you on a physical storage medium , the original storage medium holding the software is free from defects in material and workmanship under normal use and service for 90 days from the date of purchase . 
+if mandatory legislation in your jurisdiction requires longer in excess to the aforementioned 90 days , the length of the warranty is amended accordingly . 
+if for any reason you find a defect in the physical storage medium during the warranty period , rovio agrees to replace , free of charge , any physical storage medium and related software discovered to be defective within the warranty period as long as the software is currently commercially distributed by rovio . 
+if the software is no longer available , rovio retains the right to substitute a similar piece of software of equal or greater value . 
+this warranty is limited to the physical storage medium and the software as originally provided by rovio and is not applicable to normal wear and tear . 
+this warranty shall not be applicable and shall be void if the defect has arisen through abuse , mistreatment , or neglect . 
+any implied warranties prescribed by statute are expressly limited to the warranty period described above . 
+when returning the software subject to the limited warranty above , please send the original software only to the rovio address specified below and include : your name and return address ; a photocopy of your dated sales receipt ; and a brief note describing the defect and the system on which you are running the software . 
+notwithstanding the abovementioned warranty for physical storage medium specified in section 6.1 above , and to the fullest extent permissible under applicable law , the rovio services are provided to you `` as is , '' with all faults , without warranty of any kind , without performance assurances or guarantees of any kind , and your use is at your sole risk . 
+the entire risk of satisfactory quality and performance resides with you . 
+rovio , rovio 's licensors and channel partners do not make , and hereby disclaim , any and all express , implied or statutory warranties , including implied warranties of condition , uninterrupted use , accuracy of data -lrb- including but not limited to location data -rrb- , merchantability , satisfactory quality , fitness for a particular purpose , noninfringement of third party rights , and warranties -lrb- if any -rrb- arising from a course of dealing , usage , or trade practice . 
+rovio , rovio 's licensors and channel partners do not warrant against interference with your enjoyment of the software ; that the rovio services will meet your requirements ; that operation of the rovio services will be uninterrupted or error-free , or that the rovio services will interoperate or be compatible with any other rovio services or that any errors in the rovio services will be corrected . 
+no oral or written advice provided by rovio , rovio 's licensors and channel partners or any authorized representative shall create a warranty . 
+some jurisdictions do not allow the exclusion of or limitations on implied warranties or the limitations on the applicable statutory rights of a consumer , so some or all of the above exclusions and limitations apply only to the fullest extent permitted by law in the applicable jurisdiction . 
+in no event will rovio , rovio 's affiliates , rovio 's licensors or channel partners be liable for special , incidental or consequential damages resulting from possession , access , use or malfunction of the rovio services , including but not limited to , damages to property , loss of goodwill , computer failure or malfunction and , to the extent permitted by law , damages for personal injuries , property damage , lost profits or punitive damages from any causes of action arising out of or related to this eula or the software , whether arising in tort -lrb- including negligence -rrb- , contract , strict liability or otherwise and whether or not rovio , rovio 's licensors or channel partners have been advised of the possibility of such damages . 
+for purposes of this section 7 , rovio 's licensors and channel partners are third party beneficiaries to the limitations of liability specified herein and they may enforce this eula against you . 
+because some states/countries do not allow certain limitations of liability , this limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction . 
+this limitation of liability shall not be applicable solely to the extent that any specific provision of this limitation of liability is prohibited by any federal , state , or municipal law , which can not be pre-empted . 
+this eula gives you specific legal rights , and you may have other rights that vary from jurisdiction to jurisdiction . 
+in no event shall rovio 's , rovio 's affiliates ' , rovio 's licensors ' or channel partners ' liability for all damages -lrb- except as required by applicable law -rrb- exceed the actual price paid by you for use of the rovio services or five euros -lrb- eur 5 -rrb- , whichever less . 
+termination : this eula will terminate automatically if you fail to comply with its terms and conditions . 
+in such event , you must destroy all copies of the software and all of its component parts and cease and desist from accessing any rovio services . 
+with regards to software delivered on a physical storage medium you can end this eula by destroying the software and all copies and reproductions of the software and deleting and permanently purging the software from any client server or computer on which it has been installed . 
+equitable remedies : you hereby agree that if the terms of this eula are not specifically observed , rovio will be irreparably damaged , and therefore you agree that rovio shall be entitled , without bond , other security or proof of damages , to appropriate equitable remedies with respect to your breach of any of the terms of this eula , in addition to any other available remedies . 
+affiliate : for purposes of this eula , an `` affiliate '' or rovio means any legal entity that is directly or indirectly controlled by rovio for so long as such control lasts . 
+control shall exist through direct or indirect ownership of more than 50 % of the nominal value of the issued equity share capital or more than 50 % of the shares entitling the holders to vote for the election of the members of the board of directors or persons performing similar functions . 
+indemnity : you agree to indemnify , defend and hold rovio , its partners , affiliates , contractors , officers , directors , employees and agents harmless from and against any and all damages , losses and expenses arising directly or indirectly from : -lrb- i -rrb- your acts and omissions to act in using the rovio services pursuant to the terms of the eula ; or -lrb- ii -rrb- your breach of this eula . 
+miscellaneous : this eula represents the complete agreement concerning this license between the parties and supersedes all prior agreements and representations between them . 
+rovio reserves the right , at its discretion , to change , modify , add or remove portions of this eula by posting the updated eula on rovio 's website . 
+you will be deemed to have accepted such changes by continuing to use the rovio services . 
+if any provision of this eula is held to be unenforceable for any reason , such provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this eula shall not be affected . 
+governing law and dispute resolution . 
+this eula will be governed by the laws of finland without reference to its choice of law rules . 
+the united nations convention for the international sale of goods shall not apply . 
+any dispute , controversy or claim arising out of or relating to this eula or the breach , termination or validity thereof shall be finally settled at rovio 's discretion -lrb- i -rrb- at your domicile 's competent courts ; or -lrb- ii -rrb- by arbitration in accordance with the rules for expedited arbitration of the arbitration institute of the finland chamber of commerce . 
+the arbitration shall be conducted in helsinki , finland , in the english language . 
+you agree that you may bring claims against rovio only in your individual capacity and not as a plaintiff or class member in any purported class or representative proceeding . 
+if you have any questions concerning this agreement , you may contact support@rovio.com . 

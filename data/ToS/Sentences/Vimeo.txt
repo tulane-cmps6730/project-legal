@@ -1,0 +1,163 @@
+last updated : march 3 , 2017 
+** please read this document carefully . 
+vimeo , inc. -lrb- `` vimeo , '' `` we , '' or `` us '' -rrb- offers an online video sharing platform and community through its website located at vimeo.com and other vimeo-operated sites -lrb- collectively , the `` vimeo site '' -rrb- , mobile applications , connected tv applications , and other online services -lrb- collectively and including the vimeo site , the `` vimeo service '' -rrb- . 
+by registering as a member or by using the vimeo service in any way , you accept these terms of service -lrb- `` agreement '' -rrb- , which forms a binding agreement between you and vimeo . 
+if you do not wish to be bound by this agreement , do not use the vimeo service . 
+who may use the vimeo service 
+license to use the vimeo service 
+term and termination ; account deletion 
+third party copyrights and other rights 
+compliance notice pursuant to 18 u.s.c. § 2257 
+who may use the vimeo service 
+age requirement : you must be at least 13 years old to use the vimeo service . 
+if you are at least 13 , but are still a minor -lrb- this depends on where you live -rrb- , you must have your parent or legal guardian 's permission to use the vimeo service . 
+please have him or her read this agreement with you . 
+notice to parents and guardians : by granting your child permission to use the vimeo service , you agree to the terms of this agreement on behalf of your child . 
+you are responsible for monitoring and supervising your child 's use of the vimeo service . 
+if your child is using the vimeo service and is either under 13 or does not have your permission , please contact us immediately so that we can disable his or her access . 
+if you have questions about whether the vimeo service is appropriate for your child , please review our frequently asked questions or contact us . 
+warning : even if you are old enough to use the vimeo service and/or have your parent 's or guardian 's permission , some of the content available within the vimeo service may not be appropriate for you . 
+some content may contain `` r-rated '' material , nudity , profanity , and mature subject matter . 
+if you are under 18 , do not view such content . 
+license to use the vimeo service 
+license : vimeo grants you a limited , non-exclusive license to access and use the vimeo service for your own personal , non-commercial purposes . 
+this includes the right to view content available on the vimeo service . 
+this license is personal to you and may not be assigned or sublicensed to anyone else . 
+commercial use : you may not use the vimeo service for commercial purposes unless : 
+• you are a vimeo pro or vimeo business user , in which case you may use and access the vimeo service for commercial and non-commercial purposes , subject to compliance with the vimeo guidelines ; or 
+• you are a small-scale independent production company , non-profit , or artist , in which case you may use the vimeo service to showcase or promote your own creative works . 
+if you sell vimeo-hosted videos directly to users other than through vimeo on demand , such usage will be deemed an `` application '' under our api terms -lrb- whether you use our api or not -rrb- and will be subject to our api terms . 
+restrictions : except as expressly permitted by vimeo in writing , you will not scrape , reproduce , redistribute , sell , create derivative works from , decompile , reverse engineer , or disassemble the vimeo service or any source code therein . 
+nor will you attempt to circumvent any of vimeo 's technical measures or take any measures to interfere with or damage the vimeo service . 
+all rights not expressly granted by vimeo are reserved . 
+mobile app : your use of the vimeo service through one of our mobile applications is also subject to our mobile app addendum . 
+your privacy rights are set forth in our privacy policy , which forms a part of this agreement . 
+please review the privacy policy to learn about : 
+• what information we may collect about you ; 
+• what we use that information for ; and 
+• with whom we share that information . 
+registration : to fully use the vimeo service , you must register as a member by providing a user name , password , and valid email address . 
+you must provide complete and accurate registration information to vimeo and notify us if your information changes . 
+if you are a business , government , or non-profit entity , the person whose email address is associated with the account must have the authority to bind the entity to this agreement . 
+user name : we encourage you to use your real name . 
+if you are a business , government , or non-profit entity , you must use the actual name of your organization . 
+you may not use someone else 's name , a name that violates any third party right , or a name that is obscene or otherwise objectionable . 
+account security : you are responsible for all activity that occurs under your account , including any activity by authorized or unauthorized users . 
+you must not allow others to use your account credentials and you must safeguard the confidentiality of those credentials . 
+if you are using a computer that others have access to , you must log out of your account after using the vimeo service . 
+if you become aware of an unauthorized access to your account , you must change your password and notify us immediately . 
+seat access : if you are a pro or business subscriber , you may grant access to your account to other vimeo members subject to a seat limit . 
+you are responsible for the actions of those persons insofar as your account is concerned . 
+if you are a vimeo member who has been granted access to a pro or business account , you must comply with the terms of this agreement in accessing that account . 
+vimeo plus , pro and business : in addition to offering basic -lrb- free -rrb- vimeo memberships , we offer vimeo plus , pro , and vimeo business subscriptions . 
+please see our subscription pages for current plus , pro , and business features and pricing . 
+features and prices are subject to change . 
+storage limits are calculated based upon source files . 
+we reserve the right to charge for excessive use of bandwidth where plays occur on third-party sites and applications outside the native vimeo player or apps . 
+anyone who wishes to obtain storage capacity beyond what is offered with the vimeo business subscription , or additional bandwidth for applications not using the vimeo player may request a custom account by contacting us here : vimeo.com/help/contact . 
+additional terms and conditions -lrb- to be shown prior to purchase -rrb- apply to custom accounts . 
+all fees may be subject to taxes . 
+cancelation and refunds : users who purchase annual subscriptions have thirty -lrb- 30 -rrb- days after their purchase to cancel and receive a full refund . 
+users who purchase monthly subscriptions have five -lrb- 5 -rrb- days after purchase to cancel and receive a full refund . 
+after the cancelation period ends , all purchases are final and all fees paid are non-refundable , even if your account is later terminated by vimeo . 
+if your account is terminated due to your breach of this agreement during the relevant cancelation period , you will not be refunded . 
+if you have questions , please contact us . 
+renewals : subject to the terms hereof , you may choose to renew your subscription at the end of the subscription period . 
+by default , all subscriptions are set to automatically renew for the same period of time as the original subscription . 
+you may decline to renew at any time prior to the commencement of a renewal subscription . 
+vimeo reserves the right to deny subscriptions , renewals , and other purchases for any reason . 
+unused storage , plays , and other limits do not roll over to subsequent subscription periods . 
+end of subscription : when a vimeo plus , pro , or business subscription ends , the account automatically becomes a basic -lrb- free -rrb- account and vimeo may disable access to or delete any content to comply with basic account limits . 
+if you 're using vimeo for commercial purposes , you will need to maintain a vimeo pro , business , or custom plan to continue hosting your videos . 
+your account and its content may be deleted if your subscription is not renewed . 
+other purchases : purchases of other products and services through the vimeo service are subject to our payment addendumand to other terms and conditions that are presented to you at the time of purchase . 
+term and termination ; account deletion 
+term : this agreement begins on the date you first use the vimeo service and continues as long as you have an account with us . 
+account deletion : you may delete your account at any time . 
+basic accounts may be deleted from the vimeo service if they remain inactive -lrb- i.e. , the user fails to log in -rrb- for a continuous period of at least six -lrb- 6 -rrb- months . 
+subscription accounts will remain active until the end of the subscription term and any renewal term . 
+termination for breach : vimeo may suspend , disable , or delete your account -lrb- or any part thereof -rrb- or block or remove any content you submitted if vimeo determines that you have violated any provision of this agreement or that your conduct or content would tend to damage vimeo 's reputation and goodwill . 
+if vimeo deletes your account for the foregoing reasons , you may not re-register for the vimeo service . 
+vimeo may block your email address and internet protocol address to prevent further registration . 
+effect of termination/account deletion : upon termination , all licenses granted by vimeo will terminate . 
+sections 6 and 11 though 16 shall survive termination . 
+in the event of account deletion for any reason , content that you submitted may no longer be available . 
+vimeo shall not be responsible for the loss of such content . 
+you may not upload , post , or transmit -lrb- collectively , `` submit '' -rrb- any video , image , text , audio recording , or other work -lrb- collectively , `` content '' -rrb- that : 
+• infringes any third party 's copyrights or other rights -lrb- e.g. , trademark , privacy rights , etc. -rrb- ; 
+• contains sexually explicit content or pornography -lrb- provided , however , that non-sexual nudity is permitted -rrb- ; 
+• contains hateful , defamatory , or discriminatory content or incites hatred against any individual or group ; 
+• depicts unlawful acts or extreme violence ; 
+• depicts animal cruelty or extreme violence towards animals ; 
+• promotes fraudulent or dubious business schemes ; or 
+all videos you submit must also comply with the vimeo guidelines , which are incorporated into this agreement . 
+in using the vimeo service , you must behave in a civil and respectful manner at all times . 
+further , you will not : 
+• act in a deceptive manner by , among other things , impersonating any person ; 
+• harass or stalk any other person ; 
+• harm or exploit minors ; 
+• distribute `` spam '' ; 
+• collect information about others ; or 
+• advertise or solicit others to purchase any product or service within the vimeo site -lrb- unless you are an official vimeo partner or advertiser and have a written agreement with vimeo -rrb- . 
+vimeo has the right , but not the obligation , to monitor all conduct on and content submitted to the vimeo service . 
+license to vimeo : as between you and vimeo , you own the video content -lrb- `` videos '' -rrb- that you submit to the vimeo service . 
+by submitting a video , you grant vimeo and its affiliates a limited , worldwide , non-exclusive , royalty-free license and right to copy , transmit , distribute , publicly perform and display -lrb- through all media now known or hereafter created -rrb- , and make derivative works from your video for the purpose of -lrb- i -rrb- displaying the video within the vimeo service ; -lrb- ii -rrb- displaying the video on third party websites and applications through a video embed or vimeo 's api subject to your video privacy choices ; -lrb- iii -rrb- allowing other users to play , download , and embed on third party websites the video , subject to your video privacy choices ; -lrb- iii -rrb- promoting the vimeo service , provided that you have made the video publicly available ; and -lrb- iv -rrb- archiving or preserving the video for disputes , legal proceedings , or investigations . 
+license to other users : you further grant all users of the vimeo service permission to view your videos for their personal , non-commercial purposes . 
+this includes the right to copy and make derivative works from the videos solely to the extent necessary to view the videos . 
+the foregoing licenses are in addition to any license you may decide to grant -lrb- e.g. , a creative commons license -rrb- . 
+duration of licenses : the above licenses will continue unless and until you remove your videos from the vimeo service , in which case the licenses will terminate within a commercially reasonable period of time . 
+notwithstanding the foregoing , the license for legal archival/preservation purposes will continue indefinitely . 
+please note that removed videos may be cached in search engine indices after removal and that vimeo has no control over such caching . 
+as between you and vimeo , you own all non-video content that you submit to the vimeo service . 
+you grant vimeo and its affiliates a worldwide , perpetual , irrevocable , non-exclusive , royalty-free license and right to copy , transmit , distribute , publicly perform and display -lrb- through all media now known or hereafter created -rrb- , and make derivative works from your non-video content . 
+in addition , you waive any so-called `` moral rights '' in your non-video content . 
+you further grant all users of the vimeo service permission to view your non-video content for their personal , non-commercial purposes . 
+if you make suggestions to vimeo on improving or adding new features to the vimeo service , vimeo shall have the right to use your suggestions without any compensation to you . 
+for each piece of content that you submit , you represent and warrant that : -lrb- i -rrb- you have the right to submit the content to vimeo and grant the licenses set forth above ; -lrb- ii -rrb- vimeo will not need to obtain licenses from any third party or pay royalties to any third party ; -lrb- iii -rrb- the content does not infringe any third party 's rights , including intellectual property rights and privacy rights ; and -lrb- iv -rrb- the content complies with this agreement and all applicable laws . 
+you will indemnify , defend , and hold harmless vimeo and its affiliates , directors , officers , employees , and agents , from and against all third party actions that : -lrb- i -rrb- arise from your activities on the vimeo service ; -lrb- ii -rrb- assert a violation by you of any term of this agreement ; or -lrb- iii -rrb- assert that any content you submitted to vimeo violates any law or infringes any third party right , including any intellectual property or privacy right . 
+third party copyrights and other rights 
+vimeo respects the intellectual property rights of others . 
+if you believe that your copyright has been infringed , please send us a notice as set forth in our copyright and dmca policy , which is incorporated into this agreement . 
+for other intellectual property claims , please send us a notice at legal -lsb- at -rsb- vimeo -lsb- dot -rsb- com . 
+vimeo reserves the right to modify the vimeo service . 
+you are responsible for providing your own access -lrb- e.g. , computer , mobile device , internet connection , etc. -rrb- to the vimeo service . 
+vimeo has no obligation to screen or monitor any content and does not guarantee that any content available on the vimeo service complies with this agreement or is suitable for all users . 
+vimeo provides the vimeo service on an `` as is '' and `` as available '' basis . 
+you therefore use the vimeo service at your own risk . 
+vimeo expressly disclaims any and all warranties of any kind , whether express or implied , including , but not limited to the implied warranties of merchantability , fitness for a particular purpose , non-infringement , and any other warranty that might arise under any law . 
+without limiting the foregoing , vimeo makes no representations or warranties : 
+• that the vimeo service will be permitted in your jurisdiction ; 
+• that the vimeo service will be uninterrupted or error-free ; 
+• concerning any content submitted by any member ; 
+• concerning any third party 's use of content that you submit ; 
+• that any content you submit will be made available on the vimeo service or will be stored by vimeo ; 
+• that the vimeo service will meet your business or professional needs ; 
+• that vimeo will continue to support any particular feature of the vimeo service ; or 
+• concerning sites and resources outside of the vimeo service , even if linked to from the vimeo service . 
+to the extent any disclaimer or limitation of liability does not apply , all applicable express , implied , and statutory warranties will be limited in duration to a period of thirty -lrb- 30 -rrb- days after the date on which you first used the vimeo service , and no warranties shall apply after such period . 
+to the fullest extent permitted by law : -lrb- i -rrb- vimeo shall not be liable for any direct , indirect , incidental , special , consequential , or exemplary damages , including but not limited to damages for loss of profits , goodwill , use , data or other intangible losses ; and -lrb- ii -rrb- vimeo 's total liability to you shall not exceed the amounts paid by you to vimeo over the twelve -lrb- 12 -rrb- months preceding your claim -lrb- s -rrb- . 
+compliance notice pursuant to 18 u.s.c. § 2257 
+all pictures , graphics , videos , and other visual media displayed on the vimeo service are exempt from 18 u.s.c. § 2257 and 28 c.f.r. 75 because they do not consist of depictions of conduct as specifically listed in 18 u.s.c. § 2256 -lrb- 2 -rrb- -lrb- a -rrb- - -lrb- d -rrb- , but are merely , at most , depictions of non-sexually explicit nudity , or are depictions of simulated sexual conduct , or are otherwise exempt because the visual depictions were created prior to july 3 , 1995 . 
+vimeo is not the primary producer of the visual content contained in the vimeo service . 
+governing law : this agreement shall be governed by the laws of the state of new york , united states of america , without regard to principles of conflicts of law . 
+the uniform commercial code , the uniform computer information transaction act , and the united nations convention of controls for international sale of goods shall not apply . 
+disputes : any action arising out of or relating to this agreement or your use of the vimeo service must be commenced in the state or federal courts located in new york county , new york , united states of america -lrb- and you consent to the jurisdiction of those courts -rrb- . 
+in any such action , vimeo and you irrevocably waive any right to a trial by jury . 
+interpretation ; severability ; waiver ; remedies : headings are for convenience only and shall not be used to construe the terms of this agreement . 
+if any term of this agreement is found invalid or unenforceable by any court of competent jurisdiction , that term will be severed from this agreement . 
+no failure or delay by vimeo in exercising any right hereunder will waive any further exercise of that right . 
+vimeo 's rights and remedies hereunder are cumulative and not exclusive . 
+successors ; assignment ; no third party beneficiaries : this agreement is binding upon and shall inure to the benefit of both parties and their respective successors , heirs , executors , administrators , personal representatives , and permitted assigns . 
+you may not assign this agreement without vimeo 's prior written consent . 
+no third party shall have any rights hereunder . 
+notices : you consent to receive all communications including notices , agreements , disclosures , or other information from vimeo electronically . 
+vimeo may provide all such communications by email or by posting them on the vimeo service . 
+for support-related inquiries , you may contact us . 
+you may send notices of a legal nature to vimeo at legal -lsb- at -rsb- vimeo -lsb- dot -rsb- com or the following address : 
+vimeo , inc. 555 west 18th street new york , new york 10011 attention : legal department 
+nothing herein shall limit vimeo 's right to object to subpoenas , claims , or other demands . 
+modification : this agreement may not be modified except by a revised terms of service posted by vimeo on the vimeo site or a written amendment signed by an authorized representative of vimeo . 
+a revised terms of service will be effective as of the date it is posted on the vimeo site . 
+entire agreement : this agreement incorporates the following documents by reference : 
+this agreement constitutes the entire understanding between vimeo and you concerning the subject matter hereof and supersedes all prior agreements and understandings regarding the same . 
+notwithstanding the foregoing , this agreement does not govern any use of vimeo 's application protocol interface -lrb- api -rrb- , which is governed by our api agreement . 

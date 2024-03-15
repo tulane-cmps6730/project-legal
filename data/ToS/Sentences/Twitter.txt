@@ -1,0 +1,80 @@
+-lrb- if you live outside of the us -rrb- 
+these terms of service -lrb- `` terms '' -rrb- govern your access to and use of our services , including our various websites , sms , apis , email notifications , applications , buttons , widgets , ads , commerce services , and our other covered services -lrb- https://support.twitter.com/articles/20172501 -rrb- that link to these terms -lrb- collectively , the `` services '' -rrb- , and any information , text , links , graphics , photos , videos , or other materials or arrangements of materials uploaded , downloaded or appearing on the services -lrb- collectively referred to as `` content '' -rrb- . 
+by using the services you agree to be bound by these terms . 
+you may use the services only if you agree to form a binding contract with twitter and are not a person barred from receiving services under the laws of the applicable jurisdiction . 
+if you are accepting these terms and using the services on behalf of a company , organization , government , or other legal entity , you represent and warrant that you are authorized to do so . 
+our privacy policy -lrb- https://www.twitter.com/privacy -rrb- describes how we handle the information you provide to us when you use our services . 
+you understand that through your use of the services you consent to the collection and use -lrb- as set forth in the privacy policy -rrb- of this information , including the transfer of this information to the united states , ireland , and/or other countries for storage , processing and use by twitter and its affiliates . 
+you are responsible for your use of the services and for any content you provide , including compliance with applicable laws , rules , and regulations . 
+you should only provide content that you are comfortable sharing with others . 
+any use or reliance on any content or materials posted via the services or obtained by you through the services is at your own risk . 
+we do not endorse , support , represent or guarantee the completeness , truthfulness , accuracy , or reliability of any content or communications posted via the services or endorse any opinions expressed via the services . 
+you understand that by using the services , you may be exposed to content that might be offensive , harmful , inaccurate or otherwise inappropriate , or in some cases , postings that have been mislabeled or are otherwise deceptive . 
+all content is the sole responsibility of the person who originated such content . 
+we may not monitor or control the content posted via the services and , we can not take responsibility for such content . 
+twitter respects the intellectual property rights of others and expects users of the services to do the same . 
+we reserve the right to remove content alleged to be infringing without prior notice , at our sole discretion , and without liability to you . 
+we will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us , as described in our copyright policy -lrb- https://support.twitter.com/articles/15795 -rrb- . 
+if you believe that your content has been copied in a way that constitutes copyright infringement , please report this by visiting our copyright reporting form -lrb- https://support.twitter.com/forms/dmca -rrb- or contacting our designated copyright agent at : 
+1355 market street , suite 900 
+you retain your rights to any content you submit , post or display on or through the services . 
+what 's yours is yours -- you own your content -lrb- and your photos and videos are part of the content -rrb- . 
+by submitting , posting or displaying content on or through the services , you grant us a worldwide , non-exclusive , royalty-free license -lrb- with the right to sublicense -rrb- to use , copy , reproduce , process , adapt , modify , publish , transmit , display and distribute such content in any and all media or distribution methods -lrb- now known or later developed -rrb- . 
+this license authorizes us to make your content available to the rest of the world and to let others do the same . 
+you agree that this license includes the right for twitter to provide , promote , and improve the services and to make content submitted to or through the services available to other companies , organizations or individuals for the syndication , broadcast , distribution , promotion or publication of such content on other media and services , subject to our terms and conditions for such content use . 
+such additional uses by twitter , or other companies , organizations or individuals , may be made with no compensation paid to you with respect to the content that you submit , post , transmit or otherwise make available through the services . 
+twitter has an evolving set of rules for how ecosystem partners can interact with your content on the services . 
+these rules exist to enable an open ecosystem with your rights in mind . 
+you understand that we may modify or adapt your content as it is distributed , syndicated , published , or broadcast by us and our partners and/or make changes to your content in order to adapt the content to different media . 
+you represent and warrant that you have all the rights , power and authority necessary to grant the rights granted herein to any content that you submit . 
+please review the twitter rules , which are part of the user agreement and outline what is prohibited on the services . 
+you may use the services only in compliance with these terms and all applicable laws , rules and regulations . 
+as such , the services may change from time to time , at our discretion . 
+we may stop -lrb- permanently or temporarily -rrb- providing the services or any features within the services to you or to users generally . 
+we also retain the right to create limits on use and storage at our sole discretion at any time . 
+we may also remove or refuse to distribute any content on the services , suspend or terminate users , and reclaim usernames without liability to you . 
+as such , the services may change from time to time , at our discretion . 
+we may stop -lrb- permanently or temporarily -rrb- providing the services or any features within the services to you or to users generally . 
+we also retain the right to create limits on use and storage at our sole discretion at any time . 
+we may also remove or refuse to distribute any content on the services , suspend or terminate users , and reclaim usernames without liability to you . 
+if you use developer features of the services , including but not limited to twitter for websites -lrb- https://dev.twitter.com/web/overview -rrb- , twitter cards -lrb- https://dev.twitter.com/cards/overview -rrb- , public api -lrb- https://dev.twitter.com/streaming/public -rrb- , or sign in with twitter -lrb- https://dev.twitter.com/web/sign-in -rrb- , you agree to our developer agreement -lrb- https://dev.twitter.com/overview/terms/agreement -rrb- and developer policy -lrb- https://dev.twitter.com/overview/terms/policy -rrb- . 
+if you want to reproduce , modify , create derivative works , distribute , sell , transfer , publicly display , publicly perform , transmit , or otherwise use the services or content on the services , you must use the interfaces and instructions we provide , except as permitted through the twitter services , these terms , or the terms provided on dev.twitter.com . 
+if you use advertising features of the services , you must agree to our twitter master services agreement -lrb- https://ads.twitter.com/terms -rrb- . 
+if you use commerce features of the services that require credit or debit card information , such as our buy now feature , you agree to our twitter commerce terms -lrb- https://support.twitter.com/articles/20171943 -rrb- . 
+you may need to create an account to use some of our services . 
+you are responsible for safeguarding your account , so use a strong password and limit its use to this account . 
+we can not and will not be liable for any loss or damage arising from your failure to comply with the above . 
+you can control most communications from the services . 
+we may need to provide you with certain communications , such as service announcements and administrative messages . 
+these communications are considered part of the services and your account , and you may not be able to opt-out from receiving them . 
+if you added your phone number to your account and you later change or deactivate that phone number , you must update your account information to help prevent us from communicating with anyone who acquires your old number . 
+your license to use the services 
+twitter gives you a personal , worldwide , royalty-free , non-assignable and non-exclusive license to use the software provided to you as part of the services . 
+this license has the sole purpose of enabling you to use and enjoy the benefit of the services as provided by twitter , in the manner permitted by these terms . 
+the services are protected by copyright , trademark , and other laws of both the united states and foreign countries . 
+nothing in the terms gives you a right to use the twitter name or any of the twitter trademarks , logos , domain names , and other distinctive brand features . 
+all right , title , and interest in and to the services -lrb- excluding content provided by users -rrb- are and will remain the exclusive property of twitter and its licensors . 
+any feedback , comments , or suggestions you may provide regarding twitter , or the services is entirely voluntary and we will be free to use such feedback , comments or suggestions as we see fit and without any obligation to you . 
+you may end your legal agreement with twitter at any time by deactivating your accounts and discontinuing your use of the services . 
+see http://support.twitter.com/articles/15358-how-to-deactivate-your-account for instructions on how to deactivate your account and the privacy policy for more information on what happens to your information . 
+we may suspend or terminate your account or cease providing you with all or part of the services at any time for any or no reason , including , but not limited to , if we reasonably believe : -lrb- i -rrb- you have violated these terms or the twitter rules , -lrb- ii -rrb- you create risk or possible legal exposure for us ; -lrb- iii -rrb- your account should be removed due to prolonged inactivity ; or -lrb- iv -rrb- our provision of the services to you is no longer commercially viable . 
+we will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account , depending on the circumstances . 
+in all such cases , the terms shall terminate , including , without limitation , your license to use the services , except that the following sections shall continue to apply : ii , iii , v , and vi . 
+the services are available `` as-is '' 
+your access to and use of the services or any content are at your own risk . 
+you understand and agree that the services are provided to you on an `` as is '' and `` as available '' basis . 
+the `` twitter entities '' refers to twitter , its parents , affiliates , related companies , officers , directors , employees , agents , representatives , partners , and licensors . 
+without limiting the foregoing , to the maximum extent permitted under applicable law , the twitter entities disclaim all warranties and conditions , whether express or implied , of merchantability , fitness for a particular purpose , or non-infringement . 
+the twitter entities make no warranty or representation and disclaim all responsibility and liability for : -lrb- i -rrb- the completeness , accuracy , availability , timeliness , security or reliability of the services or any content ; -lrb- ii -rrb- any harm to your computer system , loss of data , or other harm that results from your access to or use of the services or any content ; -lrb- iii -rrb- the deletion of , or the failure to store or to transmit , any content and other communications maintained by the services ; and -lrb- iv -rrb- whether the services will meet your requirements or be available on an uninterrupted , secure , or error-free basis . 
+no advice or information , whether oral or written , obtained from the twitter entities or through the services , will create any warranty or representation not expressly made herein . 
+the twitter entities shall not be liable for any indirect , incidental , special , consequential or punitive damages , or any loss of profits or revenues , whether incurred directly or indirectly , or any loss of data , use , good-will , or other intangible losses , resulting from -lrb- i -rrb- your access to or use of or inability to access or use the services ; -lrb- ii -rrb- any conduct or content of any third party on the services , including without limitation , any defamatory , offensive or illegal conduct of other users or third parties ; -lrb- iii -rrb- any content obtained from the services ; or -lrb- iv -rrb- unauthorized access , use or alteration of your transmissions or content . 
+the limitations of this subsection shall apply to any theory of liability , whether based on warranty , contract , statute , tort -lrb- including negligence -rrb- or otherwise , and whether or not the twitter entities have been informed of the possibility of any such damage , and even if a remedy set forth herein is found to have failed of its essential purpose . 
+some jurisdictions do not allow exclusion of implied warranties or limitations on the duration of implied warranties , so the above disclaimers may not apply to you in their entireties , but will apply to the maximum extent permitted by applicable law . 
+we may revise these terms from time to time . 
+the changes will not be retroactive , and the most current version of the terms , which will always be at twitter.com/tos , will govern our relationship with you . 
+we will try to notify you of material revisions , for example via a service notification or an email to the email associated with your account . 
+by continuing to access or use the services after those revisions become effective , you agree to be bound by the revised terms . 
+in the event that any provision of these terms is held to be invalid or unenforceable , then that provision will be limited or eliminated to the minimum extent necessary , and the remaining provisions of these terms will remain in full force and effect . 
+twitter 's failure to enforce any right or provision of these terms will not be deemed a waiver of such right or provision . 
+these terms are an agreement between you and twitter international company , an irish company with its registered office at the academy , 42 pearse street , dublin 2 , ireland . 
+if you have any questions about these terms , please contact us . 

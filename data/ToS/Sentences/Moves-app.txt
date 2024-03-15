@@ -1,0 +1,75 @@
+effective date : may 5 , 2014 
+these terms of use -lrb- `` terms of use '' -rrb- are a legal agreement concluded between you -lrb- `` licensee '' -rrb- and protogeo oy of salomonkatu 17 a , fi-00100 helsinki , finland -lrb- `` licensor '' -rrb- for the moves app -lrb- `` service '' -rrb- . 
+the licensor licenses use of the service to the licensee on the basis of these terms of use . 
+the licensor does not sell the service to the licensee . 
+the licensor remains the owner of the service at all times . 
+by downloading , installing and using the service , the licensee agrees to the terms and conditions of these terms of use which shall bind the licensee . 
+the terms and conditions of these terms of service include , in particular , disclaimer of warranty in section 5 and limitation of liability in section 6 . 
+if the licensee does not agree to the terms and conditions of these terms of use , the licensor does not license the service to the licensee and the licensee must refrain from downloading , installing and using the service . 
+the service can only be downloaded , installed and used in accordance with these terms of use . 
+1.1 the licensor hereby grants to the licensee a non-exclusive , non-transferable license to use the service on the terms and conditions of these terms of use -lrb- `` license '' -rrb- . 
+the license shall remain in force subject to the payment of license fees , if any , unless terminated in accordance with section 8 . 
+1.2 under the license , the licensee may : 
+-lrb- a -rrb- download , install and use the service for the licensee 's personal purposes on any compatible device owned or controlled by the licensee ; and 
+-lrb- b -rrb- receive and use any updates to the service as may be provided by the licensor from time to time . 
+1.3 the licensor reserves the right to change , suspend , remove or disable access to the service at any time without notice . 
+in no event shall the licensor be liable for the removal or disabling of , or for imposing limits on , access to or use of the service . 
+the fourth paragraph of section 8 shall apply to the refund of license fees . 
+licensor may process personal data in accordance with the licensor 's privacy policy , which among other things explains how and for which purposes data is processed , and the controls available when you use the service . 
+except as expressly set out in these terms of use or as permitted by applicable law , the licensee undertakes not to : 
+-lrb- a -rrb- copy the service except where such copying is incidental to normal use of the service ; 
+-lrb- b -rrb- rent , lease , lend , sell , redistribute or sublicense the service ; 
+-lrb- c -rrb- make alterations to , modifications of or derivative works based on the whole or any part of the service , nor permit the service or any part of it to be combined with or become incorporated in any other service or program ; 
+-lrb- d -rrb- disassemble , decompile , reverse engineer the whole or any part of the service , nor attempt to do any such thing except to the extent that such actions can not be prohibited under applicable law ; 
+-lrb- e -rrb- provide or otherwise make available the service , in whole or in part , in any form to any person for commercial purposes ; 
+-lrb- f -rrb- use the service for any illegal activities , such as infringing or violating the rights of any other party ; and 
+-lrb- g -rrb- exploit the service in any unauthorized way whatsoever . 
+4.1 the licensee acknowledges that : 
+-lrb- a -rrb- all intellectual property rights in the service belong to the licensor ; 
+-lrb- b -rrb- rights in the service are licensed , not sold , to the licensee ; 
+-lrb- c -rrb- the licensee has no rights in or to the service other than the license ; and 
+-lrb- d -rrb- the licensee has no right to have access to the service in source code form . 
+4.2 in the event of any third party claim that the service or the licensee 's possession and use of the service infringes that third party 's intellectual property rights , the licensor shall be responsible for the investigation , defense , settlement and discharge of any such intellectual property infringement claim . 
+the licensee expressly acknowledges and agrees that use of the service is at the licensee 's sole risk and that the entire risk as to satisfactory quality , performance , accuracy and effort is with the licensee . 
+to the maximum extent permitted by applicable law , the services are provided `` as is '' and `` as available '' , with all faults and without warranty of any kind , and the licensor hereby disclaims all warranties and conditions with respect to the services , either express , implied or statutory , including , but not limited to , the implied warranties and/or conditions of merchantability , of satisfactory quality , of fitness for a particular purpose , of accuracy , of quiet enjoyment , and non-infringement of third party rights . 
+the licensor does not warrant against interference with the licensee 's enjoyment of the service , that the functions contained in , or services performed or provided by , the service will meet the requirements of the licensee , that the operation of the service will be uninterrupted or error-free , or that defects in the service will be corrected . 
+no oral or written information or advice given by the licensor or its authorized representative shall create a warranty . 
+should the service prove defective , the licensee assumes the entire cost of all necessary servicing , repair or correction . 
+6.1 the licensee acknowledges that the service has not been developed to meet the individual requirements of the licensee , and that it is therefore the licensee 's responsibility to ensure that the facilities and functions of the service meet the requirements of the licensee . 
+6.2 the licensor is not in any way responsible for the use made by the licensee of the service . 
+the licensee understands that certain risks are inherent in all physical activities , and the licensee assumes sole responsibility for any change in his or her behavior . 
+it may be necessary to consult a physician before increasing one 's physical activity . 
+6.3 to the extent not prohibited by law , in no event shall the licensor be liable for personal injury , or any incidental , special , indirect , consequential or punitive damages whatsoever , including , without limitation : 
+-lrb- a -rrb- loss of profit , 
+-lrb- b -rrb- loss of business , 
+-lrb- c -rrb- business interruption , 
+-lrb- d -rrb- loss of business opportunity , 
+-lrb- e -rrb- loss of data or 
+-lrb- f -rrb- any other commercial damages or losses 
+arising out of or related to the licensee 's use or inability to use the service , however caused , whether in contract , tort or otherwise and even if the licensor has been advised of the possibility of such damages . 
+6.4 in no event shall the licensor 's total liability to the licensee for all damages exceed the amount of fifty euros -lrb- $ 50.00 -rrb- . 
+6.5 the licensor is responsible for addressing any claims of the licensee or any third party relating to the service or the licensee 's possession and/or use of the service , including , but not limited to : -lrb- a -rrb- product liability claims , -lrb- b -rrb- any claim that the service fails to conform to any applicable legal or regulatory requirement and -lrb- c -rrb- claims arising under consumer protection or similar legislation . 
+7.1 the licensee represents and warrants that he or she : 
+-lrb- a -rrb- is legally competent ; 
+-lrb- b -rrb- if legally incompetent , has obtained a verifiable consent from his or her legal guardian -lrb- s -rrb- , as required under applicable law , to accept the terms and conditions of these terms of use ; 
+-lrb- c -rrb- is not located in a country that is subject to a u.s. government embargo or that has been designated by the u.s. government as a `` terrorist supporting '' country ; and 
+-lrb- d -rrb- is not listed on any u.s. government list of prohibited or restricted parties . 
+8.1 the license is effective until terminated by the licensee or the licensor . 
+the licensee 's rights under the license shall terminate automatically without notice from the licensor if the licensee fails to comply with any term or condition of these terms of use . 
+8.2 if any license fees have been paid by the licensee for use of the service , termination shall take effect 30 days after the notice of termination was sent to the other party in writing . 
+otherwise the termination shall take effect immediately . 
+8.3 upon termination of the license , the licensee shall cease all use of the service and destroy all copies , full or partial , of the service in the licensee 's possession . 
+8.4 if any license fees have been paid by the licensee for use of the service and the license is terminated by the licensor , the licensor shall recompense the licensee pro rata for his or her loss . 
+9.1 the licensor may transfer its rights and obligations under these terms of use to another person . 
+the licensee may not transfer his or her rights or obligations under these terms of use to another person . 
+9.2 each of the conditions of these terms of use operates separately . 
+if any court or competent authority decides that any of them are unlawful or unenforceable , the remaining conditions will remain in full force and effect . 
+9.3 the laws of finland , excluding its conflict of law rules , govern these terms of use and the licensee 's use of the service . 
+the licensee 's use of the service may also be subject to other local , state , national or international laws . 
+to the extent not prohibited by applicable law , the courts of finland shall have jurisdiction . 
+10.1 the licensor is entitled to revise these terms of use at any time . 
+the licensor shall notify the licensee of any revisions with reasonable notice , at the licensor 's sole discretion , through the service , by e-email , via an online service or otherwise , or using any combination of the foregoing . 
+10.2 if the licensee does not agree to the revised terms of use , he or she will not be bound by them if the licensee ceases all use of the service and destroys all copies , full or partial , of the service in the licensee 's possession . 
+the fourth paragraph of section 8.4 shall apply to the refund of license fees . 
+the licensor is solely responsible for the service and its content . 
+any questions , complaints or claims with respect to the service should be directed to : 

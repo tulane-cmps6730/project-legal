@@ -1,0 +1,158 @@
+we recently revised these terms . 
+please review the summary of changes and updated terms below . 
+you can find the earlier terms in our archive . 
+updated : september 28 , 2017 
+effective : october 30 , 2017 , unless you agree to these terms sooner , like when you create an account or pair your device . 
+then these terms are effective as of the date of your agreement . 
+fitbit designs products and tools that help you achieve your health and fitness goals and empower and inspire you to lead a healthier , more active life . 
+these terms of service -lrb- `` terms '' -rrb- apply to your access and use of the fitbit service , which is provided to you by fitbit , inc. -lrb- `` fitbit '' -rrb- . 
+the `` fitbit service '' includes our devices including associated firmware , applications , software , websites , apis , products , and services . 
+fitbit and its affiliates are referred to as `` fitbit , '' `` we , '' `` us , '' or `` our '' in these terms . 
+you must accept these terms to create a fitbit account and to access or use the fitbit service . 
+if you do not have an account , you accept these terms by using any part of the fitbit service . 
+if you do not accept these terms , do not create an account or use the fitbit service . 
+the fitbit pay terms of service are set forth below and are incorporated into these terms . 
+for information about our data practices , please see our privacy policy , including our cookie use statement . 
+by accessing or using the fitbit service , you agree that we can collect and use your information in accordance with the privacy policy . 
+persons under the age of 13 , or the equivalent minimum age in the relevant jurisdiction , are not permitted to access or use the fitbit service unless their parent has consented in accordance with applicable law . 
+additionally , you can not access or use the fitbit service if you are barred from receiving services under applicable law or have previously been suspended or removed from the fitbit service . 
+you may only connect to the fitbit service using -lrb- i -rrb- a device that is manufactured , distributed , or sold by fitbit itself or through its authorized resellers or agents ; -lrb- ii -rrb- our mobile applications and software , or approved third-party applications , software , or devices ; or -lrb- iii -rrb- our websites -lrb- `` authorized connections '' -rrb- . 
+you may not connect to the fitbit service with any device that is not manufactured , distributed , or sold by fitbit itself or through its authorized resellers or agents -lrb- such as a knock off or counterfeit version of a fitbit device -rrb- ; otherwise intends to resemble or purports to be a fitbit device ; or any unauthorized application or third-party connection . 
+any violation or attempted violation of this provision may result in the immediate termination of your ability to access the fitbit service . 
+if you have questions about whether a product or application qualifies as an authorized connection , please contact brandprotection@fitbit.com . 
+full use of the fitbit service requires that you create an account by providing us with information such as your full name and a valid email address , as well as a strong password . 
+you are responsible for all activity that occurs in association with your account . 
+fitbit is not liable for any loss or damages caused by your failure to maintain the confidentiality of your account credentials . 
+please contact customer support if you discover or suspect any security breach related to the fitbit service or your account . 
+full use of the fitbit service is dependent upon your use of a computer with adequate software or a supported mobile device and internet access . 
+the maintenance and security of this equipment may influence the performance of the fitbit service and it is your responsibility to ensure the equipment 's functionality . 
+posting your content on the fitbit service 
+fitbit may enable you to post , upload , store , share , send , or display photos , images , video , data , text , music , exercise regimens , food logs , recipes , comments , and other information and content -lrb- `` your content '' -rrb- to and via the fitbit service . 
+you retain all rights to your content that you post to the fitbit service . 
+by making your content available on or through the fitbit service you hereby grant to fitbit a non-exclusive , transferable , sublicensable , worldwide , royalty-free license to use , copy , modify , publicly display , publicly perform , reproduce , translate , create derivative works from , and distribute your content , in whole or in part , including your name and likeness , in any media . 
+the rights you grant us in this section 5 are only for the limited purpose of offering and improving the fitbit service . 
+you are responsible for your content . 
+you represent and warrant that you own your content or that you have all rights necessary to grant us a license to use your content as described in these terms . 
+you represent and warrant that your content , the use and provision of your content on the fitbit service , and your use of the fitbit service will not -lrb- a -rrb- infringe , misappropriate , or violate a third party 's patent , copyright , trademark , trade secret , moral rights , or other intellectual property rights , or rights of publicity or privacy ; -lrb- b -rrb- violate , or encourage any conduct that would violate , any applicable law or regulation or would give rise to civil liability ; -lrb- c -rrb- be fraudulent , false , misleading , or deceptive ; -lrb- d -rrb- be defamatory , obscene , pornographic , vulgar , or offensive ; -lrb- e -rrb- promote discrimination , bigotry , racism , hatred , harassment , or harm against any individual or group ; -lrb- f -rrb- be violent or threatening or promote violence or actions that are threatening to any person or entity ; or -lrb- g -rrb- promote illegal or harmful activities or substances . 
+you further agree not to -lrb- 1 -rrb- upload any content that contains software viruses or is designed to interrupt , destroy , or limit the functionality of any equipment or services , or that contains other harmful , disruptive , or destructive files or content ; -lrb- 2 -rrb- use or attempt to use another user 's account without authorization , or impersonate any person or entity ; -lrb- 3 -rrb- harvest , solicit , or collect information of other users for any reason whatsoever , including , without limitation , for sending unsolicited communications ; -lrb- 4 -rrb- post , advertise , or promote products or services commercially , or upload any content that is advertising , promotional material , junk mail , spam , or a contest or sweepstake , or that furthers or promotes criminal activity ; or -lrb- 5 -rrb- use the fitbit service in any manner that , in our sole discretion , is objectionable or restricts or inhibits any other person from using or enjoying the fitbit service , or which may expose us or our users to any harm or liability of any type . 
+fitbit may , in its sole discretion , alter , remove , or refuse to display any of your content , and may forbid you from posting , uploading , storing , sharing , sending , or displaying your content to and via the fitbit service . 
+`` fitbit content '' includes any photos , images , graphics , video , audio , data , text , music , exercise regimens , food logs , recipes , comments , software , works of authorship of any kind , and other information , content , or other materials that are posted , generated , provided , or otherwise made available through the fitbit service . 
+fitbit content , the fitbit service , and its underlying technology are protected by copyright , trademark , patent , intellectual property , and other laws of the united states and foreign countries . 
+we reserve all rights not expressly set forth in these terms . 
+you agree not to remove , change or obscure any copyright , trademark , service mark , or other proprietary rights notices incorporated in or accompanying the fitbit service . 
+our logos and any other fitbit trademarks that may appear on the fitbit service , and the overall look and feel of the fitbit service , including page headers , graphics , icons , and scripts , may not be copied , imitated or used , in whole or in part , without our prior written permission . 
+other trademarks , product , and service names and company names or logos mentioned on the fitbit service are the property of their respective owners and may not be copied , imitated or used , in whole or in part , without the permission of the applicable trademark holder . 
+what you can do on the fitbit service 
+the fitbit service is intended for your personal , non-commercial use . 
+fitbit grants you a limited , non-exclusive , non-transferable , non-sublicensable , revocable license to -lrb- 1 -rrb- access and use the fitbit service , -lrb- 2 -rrb- access and view the fitbit content , -lrb- 3 -rrb- access and use the software and mobile applications provided by the fitbit service , and -lrb- 4 -rrb- use the software that is embedded into fitbit devices as authorized in these terms . 
+this license is provided solely for your personal , non-commercial use and enjoyment of the fitbit service as permitted in these terms . 
+you will not use , sublicense , copy , adapt , modify , translate , disclose , prepare derivative works based upon , distribute , license , sell , rent , lease , assign , transfer , publicly display , publicly perform , transmit , broadcast , or otherwise exploit the fitbit content , fitbit service or any portion thereof , except as expressly permitted in these terms . 
+no licenses or rights are granted to you by implication or otherwise under any intellectual property rights owned or controlled by fitbit or its licensors , except for the licenses and rights expressly granted in these terms . 
+except to the extent permitted by law , you may not perform , attempt to perform , or encourage or assist others in performing any of the following while accessing or using the fitbit service : -lrb- 1 -rrb- use , display , mirror , or frame the fitbit service or any individual element within the fitbit service , including the layout and design of any page , without fitbit 's express written consent ; -lrb- 2 -rrb- use fitbit 's name , any fitbit trademark or logo , or any fitbit proprietary information without fitbit 's express written consent ; -lrb- 3 -rrb- access or tamper with non-public areas of the fitbit service , fitbit 's computer systems , or the technical delivery systems of fitbit 's providers ; -lrb- 4 -rrb- test the vulnerability of any fitbit system or breach any security or authentication measures ; -lrb- 5 -rrb- circumvent any technological measure implemented by fitbit or any of fitbit 's providers or any other third party -lrb- including another user -rrb- to protect the fitbit service ; -lrb- 6 -rrb- access the fitbit service or fitbit content through the use of any mechanism other than through the use of an authorized connection , fitbit service , or fitbit api ; or -lrb- 7 -rrb- modify , decompile , disassemble , reverse engineer , tamper with , or otherwise attempt to derive the source code of any software that fitbit provides to you or any other part of the fitbit service . 
+you are granted a limited , nonexclusive , and nontransferable right to create a text hyperlink to the fitbit service for noncommercial purposes , provided that such link does not portray us or any of our products or services in a false , misleading , derogatory , or otherwise defamatory manner , and provided further that the linking site does not contain any adult or illegal material or any material that is offensive , harassing , or otherwise objectionable . 
+this limited right may be revoked at any time in fitbit 's sole discretion . 
+we are not obligated to monitor access or use of the fitbit service , fitbit content , or your content or to review or edit any fitbit content or your content , but we have the right to do so for the purpose of operating the fitbit service , to ensure compliance with these terms , and to comply with applicable law or other legal requirements . 
+we may consult with and disclose unlawful conduct to law enforcement authorities and , pursuant to valid legal process , we may cooperate with law enforcement authorities to prosecute users who violate the law . 
+we reserve the right -lrb- but are not required -rrb- to remove or disable access to the fitbit service , any fitbit content , or your content at any time and without notice , and at our sole discretion , if we determine that the fitbit content , your content , or your use of the fitbit service is objectionable or in violation of these terms . 
+we have the right to investigate violations of these terms and any conduct that affects the fitbit service , and in response may take any action we may deem appropriate . 
+use the fitbit service at your own risk 
+if you rely on any fitbit content or the fitbit service , you do so solely at your own risk . 
+our goal is to provide helpful and accurate information on the fitbit service , but we make no endorsement , representation , or warranty of any kind about any fitbit content , information , or services . 
+the accuracy of the data collected and presented through the fitbit service is not intended to match that of medical devices or scientific measurement devices . 
+we are not responsible for the accuracy , reliability , availability , effectiveness , or correct use of information you receive through the fitbit service . 
+maps , directions , and other gps or navigation data , including data relating to your current location , may be unavailable , inaccurate , or incomplete 
+use of the fitbit service should not replace your good judgment and common sense . 
+please read and comply with all safety notices that accompany your use of the fitbit service , including those located on our wear and care page . 
+consult your doctor before using the fitbit service 
+the fitbit service is not intended to diagnose , treat , cure , or prevent any disease . 
+if you have a medical or heart condition , consult your doctor before using the fitbit service , engaging in an exercise program , or changing your diet . 
+if you experience a medical emergency , stop using the fitbit service and consult with a medical professional . 
+we are not responsible for any health problems that may result from training programs , consultations , products , or events you learn about through the fitbit service . 
+if you engage in any exercise program you receive or learn about through the fitbit service , you agree that you do so at your own risk and are voluntarily participating in these activities . 
+prolonged contact with wearable devices may contribute to skin irritation or allergies in some users . 
+to reduce irritation , follow four simple wear and care tips : -lrb- 1 -rrb- keep it clean , -lrb- 2 -rrb- keep it dry , -lrb- 3 -rrb- do n't wear it too tight , and -lrb- 4 -rrb- give your wrist a rest by removing the band for an hour after extended wear . 
+for more information visit www.fitbit.com/productcare . 
+if you notice any skin irritation , soreness , tingling , numbness , burning , or stiffness in your hands or wrists while or after wearing the product , remove your device and please discontinue use . 
+if any symptoms persist longer than 2-3 days after removing the device , consult your doctor . 
+fitbit products using purepulse technology have a heart rate tracking feature that may pose risks to users with certain health conditions . 
+consult your doctor prior to use of such products if you -lrb- 1 -rrb- have a medical or heart condition , -lrb- 2 -rrb- are taking any photosensitive medicine , -lrb- 3 -rrb- have epilepsy or are sensitive to flashing lights , -lrb- 4 -rrb- have reduced circulation or bruise easily , or -lrb- 5 -rrb- have tendonitis , carpal tunnel syndrome , or other musculoskeletal disorders . 
+fitbit respects the intellectual property of others and expects its users to do the same . 
+it is fitbit 's policy , in appropriate circumstances and at our discretion , to disable or terminate the accounts of users who repeatedly infringe the rights of copyright holders . 
+please see fitbit 's dmca/copyright policy . 
+terms of sale and returns and warranty 
+fitbit 's terms of sale and returns and warranty policy apply to purchases made from fitbit . 
+the terms of sale are incorporated into and made a part of these terms . 
+all orders placed are subject to fitbit 's acceptance . 
+we may accept , decline , or place limits on your order for any reason . 
+if you submit comments , ideas , or feedback to us , you agree that we can use , disclose , reproduce , distribute , and exploit them without any restriction or compensation to you . 
+we do not waive any rights to use similar or related ideas or feedback previously known to us , developed by fitbit , or obtained from sources other than you . 
+our feedback and submissions policy is also part of the terms . 
+additional terms and conditions may apply to surveys , contests , giveaways , and other promotions sponsored by fitbit or its partners . 
+it is your responsibility to carefully review those terms and conditions . 
+as part of your use of the fitbit service , you may receive notifications , text messages , alerts , emails , and other electronic communications . 
+you agree to the receipt of these communications . 
+you can control most communications from the fitbit service by using your account settings . 
+we may need to provide you with certain communications , such as service announcements and administrative messages . 
+you are responsible for any messaging or data fees you may be charged by your wireless carrier . 
+any notices , agreements , disclosures , or other communications that we send to you electronically will satisfy any legal communication requirements , including that the communication be in writing . 
+the fitbit service may display or permit linking or other access to or use of third-party content , promotions , websites , apps , services and resources -lrb- collectively `` third-party services '' -rrb- that are not under fitbit 's control . 
+this may include the opportunity for you to link your fitbit account , fitbit data , or the fitbit service with third-party services . 
+we provide these links only as a convenience and are not responsible for the products , services , or other content that are available from third-party services . 
+you acknowledge that any third-party services that you use in connection with the fitbit service , such as third party applications accessed on fitbit devices , are not part of the fitbit service and are not controlled by fitbit , and you take sole responsibility and assume all risk arising from your interaction with or use of any third-party services . 
+you also acknowledge that these terms and the fitbit privacy policy do not apply to any third-party services . 
+you are responsible for reading and understanding the terms and conditions and privacy policy that applies to your use of any third-party services . 
+fitbit may change or discontinue , temporarily or permanently , any feature or component of the fitbit service at any time without notice . 
+fitbit is not liable to you or to any third party for any modification , suspension , or discontinuance of any feature or component of the fitbit service . 
+we reserve the right to determine the timing and content of software updates , which may be automatically downloaded and installed by fitbit products without prior notice to you . 
+we reserve the right to suspend or deactivate your account or your access to certain aspects or all of the fitbit service , or to terminate these terms , at our sole discretion , at any time and without notice or liability to you . 
+upon any such suspension , deactivation , or termination , we may delete or remove your content and other information related to your account . 
+you may close your account at any time by contacting customer support . 
+upon any termination of these terms or suspension , termination , or discontinuation of the fitbit service or your account , the following provisions of these terms will survive : sections 1 , 5 , 6 , 9 , 10 , 11 , 13 , 14 , 16 , 17 , 19 , 20 , 21 , 22 , 23 , 24 , 25 . 
+the fitbit service and fitbit content are provided `` as is , '' without warranty of any kind . 
+without limiting the foregoing , we explicitly disclaim all express or implied warranties arising out of or related to these terms or the fitbit service , including any warranties of merchantability , fitness for a particular purpose , quiet enjoyment or non-infringement , and any warranties arising out of course of dealing or usage of trade . 
+we make no warranty that the fitbit service or fitbit content will meet your requirements or be available on an uninterrupted , secure , or error-free basis . 
+we make no warranty regarding the quality , accuracy , timeliness , truthfulness , completeness , or reliability of the fitbit service or any fitbit content . 
+neither fitbit , its suppliers , or licensors , nor any other party involved in creating , producing , or delivering the fitbit service will be liable for any incidental , special , exemplary , or consequential damages , including lost profits , loss of data or goodwill , service interruption , computer damage , or system failure or the cost of substitute services arising out of or in connection with these terms or from the use of or inability to use the fitbit service , whether based on warranty , contract , tort -lrb- including negligence -rrb- , product liability , or any other legal theory , and whether or not fitbit has been informed of the possibility of such damage , even if a limited remedy set forth herein is found to have failed of its essential purpose . 
+in no event will fitbit 's total liability arising out of or in connection with these terms or from the use of or inability to use the fitbit service exceed the amounts you have paid to fitbit for use of the fitbit service or one hundred dollars -lrb- $ 100 -rrb- , if you have not had any payment obligations to fitbit , as applicable . 
+the exclusions and limitations of damages set forth above are fundamental elements of the basis of the bargain between fitbit and you . 
+some jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages , so the above limitation may not apply to you . 
+please read the following section carefully because it requires you to arbitrate certain disputes and claims with us and limits the manner in which you can seek relief from us . 
+you agree that any dispute between you and fitbit arising out of or relating to these terms of service , the fitbit service , or any other fitbit products or services -lrb- collectively , `` disputes '' -rrb- will be governed by the arbitration procedure outlined below . 
+governing law : except as otherwise required by applicable law , the terms of service and the resolution of any disputes shall be governed by and construed in accordance with the laws of the state of california without regard to its conflict of laws principles . 
+informal dispute resolution : we want to address your concerns without needing a formal legal case . 
+before filing a claim against fitbit , you agree to try to resolve the dispute informally by contacting support@fitbit.com . 
+we 'll try to resolve the dispute informally by contacting you through email . 
+if a dispute is not resolved within 15 days after submission , you or fitbit may bring a formal proceeding . 
+we both agree to arbitrate : you and fitbit agree to resolve any disputes through final and binding arbitration , except as set forth under exceptions to agreement to arbitrate below . 
+opt-out of agreement to arbitrate : you can decline this agreement to arbitrate by contacting legal@fitbit.com within 30 days of first accepting these terms of service and stating that you -lrb- include your first and last name -rrb- decline this arbitration agreement . 
+arbitration procedures : the american arbitration association -lrb- aaa -rrb- will administer the arbitration under its commercial arbitration rules and the supplementary procedures for consumer related disputes . 
+the arbitration will be held in the united states county where you live or work , san francisco , california , or any other location we agree to . 
+arbitration fees : the aaa rules will govern payment of all arbitration fees . 
+fitbit will pay all arbitration fees for claims less than $ 75,000 . 
+fitbit will not seek its attorneys ' fees and costs in arbitration unless the arbitrator determines that your claim is frivolous . 
+exceptions to agreement to arbitrate : either you or fitbit may assert claims , if they qualify , in small claims court in san francisco -lrb- ca -rrb- or any united states county where you live or work . 
+either party may bring a lawsuit solely for injunctive relief to stop unauthorized use or abuse of the fitbit products or fitbit service , or infringement of intellectual property rights -lrb- for example , trademark , trade secret , copyright or patent rights -rrb- without first engaging in arbitration or the informal dispute-resolution process described above . 
+no class actions : you may only resolve disputes with fitbit on an individual basis , and may not bring a claim as a plaintiff or a class member in a class , consolidated , or representative action . 
+class arbitrations , class actions , private attorney general actions , and consolidation with other arbitrations are not allowed under our agreement . 
+judicial forum for disputes : except as otherwise required by applicable law , in the event that the agreement to arbitrate is found not to apply to you or your claim , you and fitbit agree that any judicial proceeding -lrb- other than small claims actions -rrb- will be brought in the federal or state courts of san francisco county , california . 
+both you and fitbit consent to venue and personal jurisdiction there . 
+we both agree to waive our right to a jury trial . 
+limitation on claims : regardless of any statute or law to the contrary , any claim or cause of action arising out of or related to your use of the fitbit products or fitbit service must be filed within one -lrb- 1 -rrb- year after such claim or cause of action arose , or else that claim or cause of action will be barred forever . 
+except as otherwise stated herein , these terms constitute the entire and exclusive understanding and agreement between fitbit and you regarding the fitbit service , and these terms supersede and replace any and all prior oral or written understandings or agreements between fitbit and you regarding the fitbit service and fitbit content . 
+we will notify you before we make material changes to these terms and give you an opportunity to review the revised terms before continuing to use the fitbit service . 
+when you use the fitbit service after a modification becomes effective , you are telling us that you accept the modified terms . 
+you can review previous versions of these terms in our archive . 
+if for any reason a court of competent jurisdiction finds any provision of these terms invalid or unenforceable , that provision will be enforced to the maximum extent permissible and the other provisions of these terms will remain in full force and effect . 
+you may not assign , delegate , or transfer these terms , by operation of law or otherwise , without fitbit 's prior written consent . 
+any attempt by you to assign or transfer these terms , without such consent , will be null . 
+fitbit may freely assign or transfer these terms without restriction . 
+subject to the foregoing , these terms will bind and inure to the benefit of the parties , their successors , and permitted assigns . 
+any notices or other communications provided by fitbit under these terms , including those regarding modifications to these terms , will be given : -lrb- i -rrb- via email or -lrb- ii -rrb- by posting to the fitbit service . 
+for notices made by e-mail , the date of receipt on the message will be deemed the date on which such notice is transmitted . 
+fitbit 's failure to enforce any right or provision of these terms will not be considered a waiver of such right or provision . 
+the waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of fitbit . 
+except as expressly set forth in these terms , the exercise by either party of any of its remedies under these terms will be without prejudice to its other remedies under these terms or otherwise . 
+additional terms may apply to certain products or services . 
+in the event that there is a conflict between these terms and any additional terms , the additional terms will control . 
+please contact us if you have any questions about these terms . 
+199 fremont street , 14th floor 

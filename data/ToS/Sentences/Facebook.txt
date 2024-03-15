@@ -1,0 +1,146 @@
+facebook statement of rights and responsibilities 
+this agreement was written in english -lrb- us -rrb- . 
+to the extent any translated version of this agreement conflicts with the english version , the english version controls . 
+please note that section 16 contains certain changes to the general terms for users outside the united states . 
+date of last revision : january 30 , 2015 
+this statement of rights and responsibilities -lrb- `` statement , '' `` terms , '' or `` srr '' -rrb- derives from the facebook principles , and is our terms of service that governs our relationship with users and others who interact with facebook , as well as facebook brands , products and services , which we call the `` facebook services '' or `` services '' . 
+by using or accessing the facebook services , you agree to this statement , as updated from time to time in accordance with section 13 below . 
+additionally , you will find resources at the end of this document that help you understand how facebook works . 
+because facebook provides a wide range of services , we may ask you to review and accept supplemental terms that apply to your interaction with a specific app , product , or service . 
+to the extent those supplemental terms conflict with this srr , the supplemental terms associated with the app , product , or service govern with respect to your use of such app , product or service to the extent of the conflict . 
+your privacy is very important to us . 
+we designed our data policy to make important disclosures about how you can use facebook to share with others and how we collect and can use your content and information . 
+we encourage you to read the data policy , and to use it to help you make informed decisions . 
+you own all of the content and information you post on facebook , and you can control how it is shared through your privacy and application settings . 
+for content that is covered by intellectual property rights , like photos and videos -lrb- ip content -rrb- , you specifically give us the following permission , subject to your privacy and application settings : you grant us a non-exclusive , transferable , sub-licensable , royalty-free , worldwide license to use any ip content that you post on or in connection with facebook -lrb- ip license -rrb- . 
+this ip license ends when you delete your ip content or your account unless your content has been shared with others , and they have not deleted it . 
+when you delete ip content , it is deleted in a manner similar to emptying the recycle bin on a computer . 
+however , you understand that removed content may persist in backup copies for a reasonable period of time -lrb- but will not be available to others -rrb- . 
+when you use an application , the application may ask for your permission to access your content and information as well as content and information that others have shared with you . 
+we require applications to respect your privacy , and your agreement with that application will control how the application can use , store , and transfer that content and information . 
+-lrb- to learn more about platform , including how you can control what information other people may share with applications , read our data policy and platform page . -rrb- 
+when you publish content or information using the public setting , it means that you are allowing everyone , including people off of facebook , to access and use that information , and to associate it with you -lrb- i.e. , your name and profile picture -rrb- . 
+we always appreciate your feedback or other suggestions about facebook , but you understand that we may use your feedback or suggestions without any obligation to compensate you for them -lrb- just as you have no obligation to offer them -rrb- . 
+we do our best to keep facebook safe , but we can not guarantee it . 
+we need your help to keep facebook safe , which includes the following commitments by you : 
+you will not post unauthorized commercial communications -lrb- such as spam -rrb- on facebook . 
+you will not collect users ' content or information , or otherwise access facebook , using automated means -lrb- such as harvesting bots , robots , spiders , or scrapers -rrb- without our prior permission . 
+you will not engage in unlawful multi-level marketing , such as a pyramid scheme , on facebook . 
+you will not upload viruses or other malicious code . 
+you will not solicit login information or access an account belonging to someone else . 
+you will not bully , intimidate , or harass any user . 
+you will not post content that : is hate speech , threatening , or pornographic ; incites violence ; or contains nudity or graphic or gratuitous violence . 
+you will not develop or operate a third-party application containing alcohol-related , dating or other mature content -lrb- including advertisements -rrb- without appropriate age-based restrictions . 
+you will not use facebook to do anything unlawful , misleading , malicious , or discriminatory . 
+you will not do anything that could disable , overburden , or impair the proper working or appearance of facebook , such as a denial of service attack or interference with page rendering or other facebook functionality . 
+you will not facilitate or encourage any violations of this statement or our policies . 
+facebook users provide their real names and information , and we need your help to keep it that way . 
+here are some commitments you make to us relating to registering and maintaining the security of your account : 
+you will not provide any false personal information on facebook , or create an account for anyone other than yourself without permission . 
+you will not create more than one personal account . 
+if we disable your account , you will not create another one without our permission . 
+you will not use your personal timeline primarily for your own commercial gain , and will use a facebook page for such purposes . 
+you will not use facebook if you are under 13 . 
+you will not use facebook if you are a convicted sex offender . 
+you will keep your contact information accurate and up-to-date . 
+you will not share your password -lrb- or in the case of developers , your secret key -rrb- , let anyone else access your account , or do anything else that might jeopardize the security of your account . 
+you will not transfer your account -lrb- including any page or application you administer -rrb- to anyone without first getting our written permission . 
+if you select a username or similar identifier for your account or page , we reserve the right to remove or reclaim it if we believe it is appropriate -lrb- such as when a trademark owner complains about a username that does not closely relate to a user 's actual name -rrb- . 
+we respect other people 's rights , and expect you to do the same . 
+you will not post content or take any action on facebook that infringes or violates someone else 's rights or otherwise violates the law . 
+we can remove any content or information you post on facebook if we believe that it violates this statement or our policies . 
+we provide you with tools to help you protect your intellectual property rights . 
+to learn more , visit our how to report claims of intellectual property infringement page . 
+if we remove your content for infringing someone else 's copyright , and you believe we removed it by mistake , we will provide you with an opportunity to appeal . 
+if you repeatedly infringe other people 's intellectual property rights , we will disable your account when appropriate . 
+you will not use our copyrights or trademarks or any confusingly similar marks , except as expressly permitted by our brand usage guidelines or with our prior written permission . 
+if you collect information from users , you will : obtain their consent , make it clear you -lrb- and not facebook -rrb- are the one collecting their information , and post a privacy policy explaining what information you collect and how you will use it . 
+you will not post anyone 's identification documents or sensitive financial information on facebook . 
+you will not tag users or send email invitations to non-users without their consent . 
+facebook offers social reporting tools to enable users to provide feedback about tagging . 
+we currently provide our mobile services for free , but please be aware that your carrier 's normal rates and fees , such as text messaging and data charges , will still apply . 
+in the event you change or deactivate your mobile telephone number , you will update your account information on facebook within 48 hours to ensure that your messages are not sent to the person who acquires your old number . 
+you provide consent and all rights necessary to enable users to sync -lrb- including through an application -rrb- their devices with any information that is visible to them on facebook . 
+if you make a payment on facebook , you agree to our payments terms unless it is stated that other terms apply . 
+special provisions applicable to developers/operators of applications and websites 
+if you are a developer or operator of a platform application or website or if you use social plugins , you must comply with the facebook platform policy . 
+about advertisements and other commercial content served or enhanced by facebook 
+our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers . 
+in order to help us do that , you agree to the following : 
+you give us permission to use your name , profile picture , content , and information in connection with commercial , sponsored , or related content -lrb- such as a brand you like -rrb- served or enhanced by us . 
+this means , for example , that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information , without any compensation to you . 
+if you have selected a specific audience for your content or information , we will respect your choice when we use it . 
+we do not give your content or information to advertisers without your consent . 
+you understand that we may not always identify paid services and communications as such . 
+if you use our self-service advertising creation interfaces for creation , submission and/or delivery of any advertising or other commercial or sponsored activity or content -lrb- collectively , the `` self-serve ad interfaces '' -rrb- , you agree to our self-serve ad terms . 
+in addition , your advertising or other commercial or sponsored activity or content placed on facebook or our publisher network will comply with our advertising policies . 
+if you create or administer a page on facebook , or run a promotion or an offer from your page , you agree to our pages terms . 
+if you download or use our software , such as a stand-alone software product , an app , or a browser plugin , you agree that from time to time , the software may download and install upgrades , updates and additional features from us in order to improve , enhance , and further develop the software . 
+you will not modify , create derivative works of , decompile , or otherwise attempt to extract source code from us , unless you are expressly permitted to do so under an open source license , or we give you express written permission . 
+we 'll notify you before we make changes to these terms and give you the opportunity to review and comment on the revised terms before continuing to use our services . 
+if we make changes to policies , guidelines or other terms referenced in or incorporated by this statement , we may provide notice on the site governance page . 
+your continued use of the facebook services , following notice of the changes to our terms , policies or guidelines , constitutes your acceptance of our amended terms , policies or guidelines . 
+if you violate the letter or spirit of this statement , or otherwise create risk or possible legal exposure for us , we can stop providing all or part of facebook to you . 
+we will notify you by email or at the next time you attempt to access your account . 
+you may also delete your account or disable your application at any time . 
+in all such cases , this statement shall terminate , but the following provisions will still apply : 2.2 , 2.4 , 3-5 , 9.3 , and 14-18 . 
+you will resolve any claim , cause of action or dispute -lrb- claim -rrb- you have with us arising out of or relating to this statement or facebook exclusively in the u.s. district court for the northern district of california or a state court located in san mateo county , and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such claims . 
+the laws of the state of california will govern this statement , as well as any claim that might arise between you and us , without regard to conflict of law provisions . 
+if anyone brings a claim against us related to your actions , content or information on facebook , you will indemnify and hold us harmless from and against all damages , losses , and expenses of any kind -lrb- including reasonable legal fees and costs -rrb- related to such claim . 
+although we provide rules for user conduct , we do not control or direct users ' actions on facebook and are not responsible for the content or information users transmit or share on facebook . 
+we are not responsible for any offensive , inappropriate , obscene , unlawful or otherwise objectionable content or information you may encounter on facebook . 
+we are not responsible for the conduct , whether online or offline , of any user of facebook . 
+we try to keep facebook up , bug-free , and safe , but you use it at your own risk . 
+we are providing facebook as is without any express or implied warranties including , but not limited to , implied warranties of merchantability , fitness for a particular purpose , and non-infringement . 
+we do not guarantee that facebook will always be safe , secure or error-free or that facebook will always function without disruptions , delays or imperfections . 
+facebook is not responsible for the actions , content , information , or data of third parties , and you release us , our directors , officers , employees , and agents from any claims and damages , known and unknown , arising out of or in any way connected with any claim you have against any such third parties . 
+if you are a california resident , you waive california civil code § 1542 , which says : a general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release , which if known by him or her must have materially affected his or her settlement with the debtor . 
+we will not be liable to you for any lost profits or other consequential , special , indirect , or incidental damages arising out of or in connection with this statement or facebook , even if we have been advised of the possibility of such damages . 
+our aggregate liability arising out of this statement or facebook will not exceed the greater of one hundred dollars -lrb- $ 100 -rrb- or the amount you have paid us in the past twelve months . 
+applicable law may not allow the limitation or exclusion of liability or incidental or consequential damages , so the above limitation or exclusion may not apply to you . 
+in such cases , facebook 's liability will be limited to the fullest extent permitted by applicable law . 
+special provisions applicable to users outside the united states 
+we strive to create a global community with consistent standards for everyone , but we also strive to respect local laws . 
+the following provisions apply to users and non-users who interact with facebook outside the united states : 
+you consent to having your personal data transferred to and processed in the united states . 
+if you are located in a country embargoed by the united states , or are on the u.s. treasury department 's list of specially designated nationals you will not engage in commercial activities on facebook -lrb- such as advertising or payments -rrb- or operate a platform application or website . 
+you will not use facebook if you are prohibited from receiving products , services , or software originating from the united states . 
+certain specific terms that apply only for german users are available here . 
+by `` facebook '' or '' facebook services '' we mean the features and services we make available , including through -lrb- a -rrb- our website at www.facebook.com and any other facebook branded or co-branded websites -lrb- including sub-domains , international versions , widgets , and mobile versions -rrb- ; -lrb- b -rrb- our platform ; -lrb- c -rrb- social plugins such as the like button , the share button and other similar offerings ; and -lrb- d -rrb- other media , brands , products , services , software -lrb- such as a toolbar -rrb- , devices , or networks now existing or later developed . 
+facebook reserves the right to designate , in its sole discretion , that certain of our brands , products , or services are governed by separate terms and not this srr . 
+by `` platform '' we mean a set of apis and services -lrb- such as content -rrb- that enable others , including application developers and website operators , to retrieve data from facebook or provide data to us . 
+by `` information '' we mean facts and other information about you , including actions taken by users and non-users who interact with facebook . 
+by `` content '' we mean anything you or other users post , provide or share using facebook services . 
+by `` data '' or `` user data '' or `` user 's data '' we mean any data , including a user 's content or information that you or third parties can retrieve from facebook or provide to facebook through platform . 
+by `` post '' we mean post on facebook or otherwise make available by using facebook . 
+by `` use '' we mean use , run , copy , publicly perform or display , distribute , modify , translate , and create derivative works of . 
+by `` application '' we mean any application or website that uses or accesses platform , as well as anything else that receives or has received data from us . 
+if you no longer access platform but have not deleted all data from us , the term application will apply until you delete the data . 
+by `` trademarks '' we mean the list of trademarks provided here . 
+if you are a resident of or have your principal place of business in the us or canada , this statement is an agreement between you and facebook , inc. . 
+otherwise , this statement is an agreement between you and facebook ireland limited . 
+references to `` us , '' `` we , '' and `` our '' mean either facebook , inc. or facebook ireland limited , as appropriate . 
+this statement makes up the entire agreement between the parties regarding facebook , and supersedes any prior agreements . 
+if any portion of this statement is found to be unenforceable , the remaining portion will remain in full force and effect . 
+if we fail to enforce any of this statement , it will not be considered a waiver . 
+any amendment to or waiver of this statement must be made in writing and signed by us . 
+you will not transfer any of your rights or obligations under this statement to anyone else without our consent . 
+all of our rights and obligations under this statement are freely assignable by us in connection with a merger , acquisition , or sale of assets , or by operation of law or otherwise . 
+nothing in this statement shall prevent us from complying with the law . 
+this statement does not confer any third party beneficiary rights . 
+we reserve all rights not expressly granted to you . 
+you will comply with all applicable laws when using or accessing facebook . 
+by using or accessing facebook services , you agree that we can collect and use such content and information in accordance with the data policy as amended from time to time . 
+you may also want to review the following documents , which provide additional information about your use of facebook : 
+* payment terms : these additional terms apply to all payments made on or through facebook , unless it is stated that other terms apply . 
+* platform page : this page helps you better understand what happens when you add a third-party application or use facebook connect , including how they may access and use your data . 
+* facebook platform policies : these guidelines outline the policies that apply to applications , including connect sites . 
+* advertising policies : these guidelines outline the policies that apply to advertisements placed on facebook . 
+* self-serve ad terms : these terms apply when you use the self-serve ad interfaces to create , submit , or deliver any advertising or other commercial or sponsored activity or content . 
+* promotions guidelines : these guidelines outline the policies that apply if you offer contests , sweepstakes , and other types of promotions on facebook . 
+* facebook brand resources : these guidelines outline the policies that apply to use of facebook trademarks , logos and screenshots . 
+* how to report claims of intellectual property infringement 
+* pages terms : these guidelines apply to your use of facebook pages . 
+* community standards : these guidelines outline our expectations regarding the content you post to facebook and your activity on facebook . 
+to access the statement of rights and responsibilities in several different languages , change the language setting for your facebook session by clicking on the language link in the left corner of most pages . 
+if the statement is not available in the language you select , we will default to the english version . 
