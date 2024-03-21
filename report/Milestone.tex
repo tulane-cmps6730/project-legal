@@ -1,17 +1,3 @@
-%
-% File acl2020.tex
-%
-%% Based on the style files for ACL 2020, which were
-%% Based on the style files for ACL 2018, NAACL 2018/19, which were
-%% Based on the style files for ACL-2015, with some improvements
-%%  taken from the NAACL-2016 style
-%% Based on the style files for ACL-2014, which were, in turn,
-%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
-%% EACL-2009, IJCNLP-2008...
-%% Based on the style files for EACL 2006 by 
-%%e.agirre@ehu.es or Sergi.Balari@uab.es
-%% and that of ACL 08 by Joakim Nivre and Noah Smith
-
 \documentclass[11pt,a4paper]{article}
 \usepackage[hyperref]{acl2020}
 \usepackage{booktabs}
@@ -27,7 +13,7 @@
 
 \newcommand\BibTeX{B\textsc{ib}\TeX}
 
-\title{Using Natura Language Processing to Identify Unfair Clauses in Terms and Conditions Documents}
+\title{Using Natural Language Processing to Identify Unfair Clauses in Terms and Conditions Documents}
 
 \author{Jonathan Sears\\
   Tulane University / New Orleans, LA \\
@@ -40,16 +26,42 @@
 
 \begin{document}
 \maketitle
-\begin{abstract}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-\end{abstract}
 
 
-\section{Introduction}
+
+\section{Problem Overview}
 
 No one reads Terms and Conditions, but everyone agrees to them. Every online user is faced with these incredibly dense and complex documents as if they are expected to read them in their entirety before using a digital tool or app that they want to use. In reality, we just agree to the terms and conditions to use what's behind them, leaving the user in the dark from the ambiguous, unfair, and even potentially exploitative clauses that may not be in the user's best interest.
 
 Our project is focused on bringing these buried, questionable clauses to light so that the user can understand what he is agreeing to at a glance. As we experiment with a variety of learning models, we are building a summarization tool that takes in terms and conditions as input and generates a page that bullets a list of either ambiguous, unfair, or exploitative clauses with a confidence score for how likely the model chose those sentences correctly. We also want the tool to highlight the sentences from the original text.
+
+\section{Data}
+
+Our pretrained model is trained on a data repository called PileOfLaw (link 1 below), which is full of ~256GB of legal and administrative documents in the English language.
+Within PileOfLaw, there are two pretrained BERT models which differ only in seed. We decided to use the second model (link 2 below), as it is the same seed used in the original paper that used PileOfLaw; that way we can compare results to get better insight into how well any modifications we make are performing.
+https://huggingface.co/datasets/pile-of-law/pile-of-law
+https://huggingface.co/pile-of-law/legalbert-large-1.7M-2
+To fine tune this model, we are using a dataset of 100 annotated terms of service documents. These documents come from the CLAUDETTE research paper, and are annotated with
+5 different types of potential unfairness (see references), but for now, we are just going to combine all of these sub-labels into one label of fair or potentially unfair to simplify things. We may decide to revisit this in the future
+
+
+\section{Methods}
+
+What method or algorithm are you using?
+We have decided to use a transfer learning approach, by using a pretrained BERT model trained on the pile of law dataset as the head of our model, and then we will pass the pretrained word embeddings through a model of our own design to classify them as potentially fair or unfair. We feel that the model being pretrained on the pile of law dataset is extremely beneficial for us, as it will not only have a good baseline understanding of the english language, but it will also understand legal terms, which is almost an entirely different language itself.
+We will experiment with different kinds of neural network architectures using the BERT model embeddings to get the best possible results. As of this milestone, we are simply passing our pretrained embeddings through multiple connected linear layers, but that approach has led to some problems as you will see below.
+Since our problem is a binary classification problem, we will evaluate our results using accuracy and f1 scores, using an 80-10-10 train, test, validation split.
+Are you using an existing library to do so? 
+Did you introduce any new variations to these methods? 
+How will you evaluate the results? 
+Which baselines will you compare against?
+
+
+\section{Preliminary Experiments and Results}
+
+State and evaluate your results up to the milestone.
+
+Our current results are not great. Although we managed to get a working model, the model currently will only predict sentences to be lebeled "fair", which gives us a relatively high accuracy, as a majority of the sentenes in the training data are labeled fair, however it gives us an f1 score of 0, making our model essential useless in it's current form. 
 
 \section{Related Work}
 
@@ -103,59 +115,17 @@ This paper presents an argument for domain specific pretraining and tests it's h
 
 Since our problem is a classification problem, we think an 80-20 cross validation approach with metrics like our accuracy, precision, recall, and F1 score should suffice. However, the scale in which we perform these evaluation metrics may vary, as we may want to measure them on a document level, and on a sentence by sentence level. We can use pretrained models, as well as a simple logistic regression and naïve Bayes models as baseline metrics to compare our model too. 
 
-\section{Data}
-
-Our labeled data comes from a repository called PileOfLaw (link 1 below), which is full of ~256GB of legal and administrative documents in the English language.
-Within PileOfLaw, there are two pretrained BERT models which differ only in seed. We decided to use the second model (link 2 below), as it is the same seed used in the original paper that used PileOfLaw; that way we can compare results to get better insight into how well any modifications we make are performing.
-https://huggingface.co/datasets/pile-of-law/pile-of-law
-https://huggingface.co/pile-of-law/legalbert-large-1.7M-2
-
-
-\section{Methods}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-\section{Results}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-Table~\ref{tab:a_table} shows a table. Note that we refer to output generated by \texttt{Experiments.ipynb}. This way, whenever we re-run our notebook, we can regenerate the paper with the latest results.
-
-\begin{table}[ht]
-\centering
-% note that we can refer to tables generated by our Experiments.ipynb notbook.
-\input{../notebooks/table.tex}
-\caption{\label{tab:a_table} A caption. }
-\end{table}
-
-Figure~\ref{fig:a_label} shows a figure
-
-\begin{figure}[ht]
-	\centering
-	% note that we can refer to figures generated by our Experiments.ipynb notbook.
-	\includegraphics[width=3.5in]{../notebooks/results.pdf}
-	\caption{A caption}
-	\label{fig:a_label}
-\end{figure}
-
-\section{Discussion}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-\section{Conclusion}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
 \section{Division of Labor}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+We will continue to divide the work as equally as possible as we experiment with our model trying to get it to perform well in its classification of unfair language.
+One thing we plan on dividing is different model approaches; for example, Jonathan might test how an LSTM performs on this task, while Nick tests an RNN.
+In the end we will highlight our best performing model and focus our report on its inner workings and results.
 
 
+\section{Timeline}
 
-
+Moving forward, we will work together on the project at least twice a week. 
+We live together so we should be able to find time most days to work on it to finish by the due date--April 30, 2024.
 
 \bibliography{references}
 \bibliographystyle{acl_natbib}
