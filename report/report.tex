@@ -47,17 +47,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 \section{Introduction}
 
-No one reads Terms and Conditions, but everyone agrees to them. Every online user is faced with these
-incredibly dense and complex documents as if they are expected to read them in their entirety before
-using a digital tool or app that they want to use. In reality, we just agree to the terms and conditions
-to use what's behind them, leaving the user in the dark from the ambiguous, unfair, and even potentially
-exploitative clauses that may not be in the user's best interest. 
+No one reads Terms and Conditions, but everyone agrees to them. Every online user is faced with these incredibly dense and complex documents as if they are expected to read them in their entirety before using a digital tool or app that they want to use. In reality, we just agree to the terms and conditions to use what's behind them, leaving the user in the dark from the ambiguous, unfair, and even potentially exploitative clauses that may not be in the user's best interest.
 
-Our project is focused on bringing these buried, questionable clauses to light so that the user can understand 
-what he is agreeing to at a glance. As we experiment wih a variety of learning models, we are building a
-summarization tool that takes in terms and conditons as input and generates a page that bullets a list of 
-either ambiguous, unfair, or exploitative clauses with a confidence score for how likely the model chose 
-those sentences correctly. We also want the tool to highlight the sentences from the orginal text.
+Our project is focused on bringing these buried, questionable clauses to light so that the user can understand what he is agreeing to at a glance. As we experiment with a variety of learning models, we are building a summarization tool that takes in terms and conditions as input and generates a page that bullets a list of either ambiguous, unfair, or exploitative clauses with a confidence score for how likely the model chose those sentences correctly. We also want the tool to highlight the sentences from the original text.
 
 \section{Related Work}
 
@@ -73,19 +65,21 @@ https://link.springer.com/article/10.1007/s10506-021-09288-2
 
 In this study, the researchers define unfair legal language in terms and conditions as language that causes "a significant imbalance in the parties' rights and obligations, to the detriment of the consumer, are deemed unfair by Consumer Law."
 
-They note how pervasive this point out that despite substantive law in place, and despite the competence of
-enforcers, providers of online services still tend to use unfair and unlawful clauses in these documents."
+They note how pervasive this point out that despite substantive law in place, and despite the competence of enforcers, providers of online services still tend to use unfair and unlawful clauses in these documents."
 
 Their system is trained on 100 labeled ToS documents and is based on splitting unfair clauses into 5 major label categories:
+
 (i) liability exclusions and limitations
+
 (ii) the provider’s right to unilaterally remove consumer content from the service, including in-app purchases
+
 (iii) the provider’s right to unilaterally terminate the contract
+
 (iv) the provider’s right to unilaterally modify the contract and/or the service
+
 (v) arbitration on disputes arising from the contract
 
-The unfair language/rationale pairing output was most accurate when the researchers used a memory-augmented
-neural network in combination with "strong supervision," meaning that they fed the expertly written
-rationales for specific unfair labels into their model.
+The unfair language/rationale pairing output was most accurate when the researchers used a memory-augmented neural network in combination with "strong supervision," meaning that they fed the expertly written rationales for specific unfair labels into their model.
 
 3. LexGLUE: A Benchmark Dataset for Legal Language Understanding in English
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://aclanthology.org/2022.acl-long.297.pdf
