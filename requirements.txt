@@ -70,7 +70,6 @@ multiprocess==0.70.16
 namex==0.0.7
 nest-asyncio==1.6.0
 networkx==3.3
--e git+ssh://git@github.com/tulane-cmps6730/project-legal.git@cfc2a27f3f2ff2afc83a66e176e011ed87b7f9ad#egg=nlp
 nltk==3.8.1
 numpy==1.26.4
 nvidia-cublas-cu12==12.1.3.1
