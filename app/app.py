@@ -84,7 +84,7 @@ def upload():
         preds = model_predict(tokenized_text, model)
         #process the prediction to determine the output
         # print(preds)
-        return jsonify(prediction=preds)
+        return jsonify(prediction=preds,text=text.split('.'))
     return None
 
 if __name__ == '__main__':

@@ -8,7 +8,25 @@ function makePrediction() {
             data: JSON.stringify({ text: textInput }),  // Convert text input into JSON
             // read response and output to the user
             success: function(response) {
-                $('#predictionResult').html('Prediction: ' + response.prediction);
+                let results = []
+                console.log(response.prediction)
+                console.log(response.text)
+                for (let i = 0; i < response.prediction.length; i++) {
+                    if (response.prediction[i] >= 0.5) {
+                        console.log(response.text[i])
+                        results.push(response.text[i])   
+                    }
+                }
+                console.log(results)
+                if (results.length == 0) {
+                    $('#predictionResult').html('We did not identify any sentences as potentially unfair or exploitative.');
+                }
+                else {
+                    $('#predictionResult').html('We identified the following sentences as potentially unfair or exploitative:\n');
+                    $.each(results, function(index, value) {
+                        $('#positiveSentences').append('<li>' + value + '</li>');
+                    });
+                }
             },
             error: function(error) {
                 console.log('Error:', error);
