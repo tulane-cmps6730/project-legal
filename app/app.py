@@ -4,6 +4,14 @@ import torch
 from torch import nn
 from transformers import BertModel, BertConfig, BertTokenizer
 import os
+from nltk.stem import PorterStemmer
+from nltk.util import ngrams
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from sklearn.model_selection import train_test_split
+import joblib
+from sklearn.feature_extraction.text import CountVectorizer
 
 app = Flask(__name__)
 
@@ -43,14 +51,19 @@ class Classifier_V2(nn.Module):
         return logit
     
 
-model = Classifier_V2('distilbert/distilbert-base-uncased',1,6).to(device)
-model.load_state_dict(torch.load(MODEL_PATH))
-model.eval()
-tokenizer = BertTokenizer.from_pretrained('distilbert/distilbert-base-uncased')
-
+# model = Classifier_V2('distilbert/distilbert-base-uncased',1,6).to(device)
+# model.load_state_dict(torch.load(MODEL_PATH))
+# model.eval()
+# tokenizer = BertTokenizer.from_pretrained('distilbert/distilbert-base-uncased')
+stemmer = PorterStemmer()
+bow_model = joblib.load('../models/logistic_regression_bow.pkl')
+nltk.download('stopwords')
+nltk.download('punkt')
+stop_words = set(stopwords.words('english'))
+vectorizer = joblib.load('../models/bow_count_vectorizer.pkl')
 
 def model_predict(text, model):
-    # Placeholder for model prediction
+    # Prediction function for BERT model
     raw_preds = []
     for sentence in text:
         input_ids = torch.tensor(sentence['input_ids']).unsqueeze(0).to(device)
@@ -66,6 +79,18 @@ def tokenize_text(text,tokenizer):
     sentences = text.split('.')
     tokenized_sentences = [tokenizer(sentence,max_length=512,padding='max_length') for sentence in sentences]
     return tokenized_sentences
+
+
+def preprocess(text, n=2):
+    # text -> tokens
+    tokens = word_tokenize(text)
+    # stem and removing stopwords
+    tokens = [stemmer.stem(word) for word in tokens if word.lower() not in stop_words and word.isalpha()]
+    # n-gram generation
+    n_grams = list(ngrams(tokens, n))
+    # flattening list of n-grams
+    n_grams = ['_'.join(gram) for gram in n_grams]
+    return tokens + n_grams
 
 @app.route("/",methods = ['GET'])
 def index():
@@ -85,6 +110,22 @@ def upload():
         #process the prediction to determine the output
         # print(preds)
         return jsonify(prediction=preds,text=text.split('.'))
+    return None
+
+@app.route("/predict_bow", methods = ['GET','POST'])
+def predict_bow():
+    if request.method == 'POST':
+        preds = []
+        data = request.get_json(force=True)
+        texts = data['text']
+        print(texts)
+        preprocessed_text = [preprocess(text, n=2) for text in texts.split('.')]
+        texts_joined = [' '.join(text) for text in preprocessed_text]
+        print(texts_joined)
+        vectorized_text = vectorizer.transform(texts_joined)
+        preds = bow_model.predict(vectorized_text)
+        print(preds)
+        return jsonify(prediction=preds.tolist(),text=texts.split('.'))
     return None
 
 if __name__ == '__main__':

@@ -2,7 +2,7 @@ function makePrediction() {
     var textInput = $('#textInput').val();  // Get the value from the textarea
     if (textInput) {
         $.ajax({
-            url: '/predict',  // Endpoint where the Flask app handles predictions
+            url: '/predict_bow',  // Endpoint where the Flask app handles predictions
             type: 'POST',
             contentType: 'application/json',
             data: JSON.stringify({ text: textInput }),  // Convert text input into JSON
