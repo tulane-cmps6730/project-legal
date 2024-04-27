@@ -22,7 +22,7 @@ function makePrediction() {
                     $('#predictionResult').html('We did not identify any sentences as potentially unfair or exploitative.');
                 }
                 else {
-                    $('#predictionResult').html('We identified the following sentences as potentially unfair or exploitative:\n');
+                    $('#predictionResult').html('We identified the following sentence(s) as potentially unfair or exploitative:\n');
                     $.each(results, function(index, value) {
                         $('#positiveSentences').append('<li>' + value + '</li>');
                     });
