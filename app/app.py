@@ -119,13 +119,13 @@ def predict_bow():
         preds = []
         data = request.get_json(force=True)
         texts = data['text']
-        print(texts)
+        # print(texts)
         preprocessed_text = [preprocess(text, n=2) for text in texts.split('.')]
         texts_joined = [' '.join(text) for text in preprocessed_text]
-        print(texts_joined)
+        # print(texts_joined)
         vectorized_text = vectorizer.transform(texts_joined)
         preds = bow_model.predict(vectorized_text)
-        print(preds)
+        # print(preds)
         return jsonify(prediction=preds.tolist(),text=texts.split('.'))
     return None
 
