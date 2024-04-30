@@ -55,8 +55,9 @@ class Classifier_V2(nn.Module):
 # model.load_state_dict(torch.load(MODEL_PATH))
 # model.eval()
 # tokenizer = BertTokenizer.from_pretrained('distilbert/distilbert-base-uncased')
+tokenizer = None
 stemmer = PorterStemmer()
-bow_model = joblib.load('../models/logistic_regression_bow.pkl')
+bow_model = joblib.load('../demo-model/logistic_regression_bow.pkl')
 nltk.download('stopwords')
 nltk.download('punkt')
 stop_words = set(stopwords.words('english'))
