@@ -7,6 +7,8 @@ In the Notebooks module you can view all of the different experiments we ran.
 
 ### Demo
 To run the demo:
+clone the repository using ```git clone https://github.com/tulane-cmps6730/project-legal.git```
+open up your terminal and cd into ```project-legal``` 
 Move into the app directory with by using ```cd app``` in your command line
 To run the app use ```flask run```
 This should run the flask app locally on your computer, so you should be able to use the demo in your web browser at http://127.0.0.1:5000 (the port number may differ depending on your computer)
